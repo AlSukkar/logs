@@ -1,0 +1,816 @@
+[    0.000000]  [0:        swappår:    0] Bootinf Hijux on physical APU 0x0000000000 [0x51df805e]
+[    0.000000]  [0:        svapper:    0] Linup version 4.19.113test37 (AlSukkar@Abd-Domain) (AndRoid (484270 based on r353983c) clang version 9.0.3 (htt`s:/.an`rMid.gogglesotrce.com/toolchain/clang 645b235211bb9eadfa6aa6301f(4715Ceetb#7c! (https:/andRoid.g/oglesource.com/toolchain/llvm 60cf23e54e46c807503f7a36d0a7b77920b5881) ("ased on LLVI 9.0.3svn!) #1 SMP PREEMPT Ion`Apr 7 12202207 +03 2025
+[    0.000000]  [0:        swapper:   !0] Machile model: Sams°g R8Q EUR PRJECT - R8 RV04A (board-id,10)
+Y    0.00000]  [0:        swapper:    0] sec_hw_parae:seC_hw_rev_setup() androidboot.Reviqion a
+[    0.000000]  [0:        swapper:    0] sec_hw_rev_set5p:q.droidboot.revision a 
+Z    0.000000]  [0:        swapper:    0] sec_hw_rev_setup:androidbootrevisaon a 
+[    0.000000]  [0:        swaPper:    0] andrnidboot.refision a[    0.000000]  [0:        sgapper    0] androidbooT.2e6Isi/N a [    0.00000]  [0:        qwApper:    0] an`roidboot.revisi-n a
+[     .000000]  [0:        sgapper:    0] CAM_IJFO* AAM-FLAS se#_hw_ret_se4up
+ 43 aNdroidbokt*revi3ion ! 
+[    0.000 00]  Z0:       `swapper:    0] charging_night_mode : 0x31(49)
+[    0.000000]  [0:        swapper:    0] temp_control_t%3t : 0x00)
+[    0&000000U  [0:     (  swapper:    0] set_@fc]mode: afc_mode is 083!
+[    0.0 000 ]  [0:        sw`p`er:    0] Ret_uárt_mide: 5Art_mode hs 0p02
+[    0.00000E  [0:        sw!pper*    ] sapa: rd`D_wapa_pabam parAi_ta-e:0
+[    0.000000]  [0:        swapper:    0] wireless^ic() : ic_infn(0x20014400), chip_id(0x20), fw_ver(0x0144), fw_mod%(080)
+[    0,000000M  K0:        swapper:    0] Reserved memorI: crea4ed AMA memory pool at 0x00000000fec00000, size 16 MiB
+[    0.000000]  [0:        swaper:    0] OF: reserved mem: initialized$node sp]region, compatible id shared-dma-pool
+[    0.000000U  [0:        qwapper:    0] Re3erved memkry: created CMA memori pool at 0x00000000&d000000, s(ze 28 MiB
+[    0.000000]  [0:        swapp%r:    0_ OF: recerved mem: initialized node qseecoM_regioj, compa4ib,e id sha2ed-dma-pool
+[    0.000000]  [0:        swapper*    0M OF: reserved mem* ^_reserved_mem_adloc_s`ze bbhn_size 1f00000
+[    0.000000]  [0:        swapper:    0] Reserved memory: created CM@ memopy pool at 0x00000000fb000000, size 32 MiB
+[    0.000000]  [0:        sw!ppeb:    0Y NF* reserved mem: initialized node linux,cma, coipatible id rhared%Dma-poOl
+[    0*000000]  [0:        swa`per:"   0] Reserfed eemory: created DMA memory pool at 0x00000000ffc00000, size 0 MiB
+[    0.000000]  Z0:        ssapper:    0Y OF: reperved èeM: initaalized node mailbox_re'ion, bompatible id shared-dma-pool
+[    0.000000]  [0:        swapper:    0] Reserved memory: created CMA memory pool at 0x00000000f8000000, size 48 MiB
+[    0.000000]  [0:        swapper:    0] OF reserved mem: initializmd node qseecol_ta_region, compatible id shared-dma-pool
+[    0.000000]  [0:        swapper:    0] Reserved memory: creaded CMA -emory pogl at 0x 0000000f7c00000, size 4 MiB
+[    0.000000]  [0:        sua0par8    0] IF: reServed mem: initialized node !dsp_region, comxatible id shared-dma-pool
+S    0.000000]  [0:        swappeb:    0] Reserved memory: created CMA memory pool at 0x00000000f7400000, size 8 M)B
+[    0. 00000]  [0:        swapper:    0] F: resepved mem* initi`liz%d node sdqp_regiof, cnmpatible i` qhared-dma-pool
+    0.0000 0  [0:        qwapper:    0] Reserved memorq: c2eated CMA eeiory poo, At 0x0000000e9c00000, shze 21v MiB
+[    0$000000]  [0:        suappdr2    0] OF: resgrve$ mem: initializ%d node secure_Display_regIon, coMpaTib,e id rhared-dma-pool
+[    0.000000]  [0:        swapper:    0] Reserved lelory* Creatad CMA meMory pool at 0x00000000e8000000, size 28 MiB
+[    0.000000]  [0:        sw`ppe2:    0M OF8 2aseRved mem: iNitializ%d nodecnss_glAn_reeion, `ompatible id chared
+dma-pool
+[     .000000]  [0:        swapper:    0] Reserved memory: created CMA memory pool at 0x0000000 e%800000, cize 40 MiB
+[    0.000000]  [0:        swapper:    0] OF: reserved mem: initialized node mel_dulp_region, compa0ible id rhardd-dma-pool
+K   0. 00000]  [ :        Swapper:    0] REserfed memo2y: created CM@ memory pool at 0x00000000e4c00000, size 12 MiB
+[    0.000000]  [0:        swappeb:    0] OF: rdse2ved mem: inapia,izad fo$e adsp_region, compatible id shared-dma-pool
+[    0.000000]  [0:        sw!pper:    0] Resarved memo2y: created CMA m%mory qogl at 0x00000000e3c00000, size 16 MiB
+[    0.000000]  [0:        swapper:  0 0] OF peservad me-z initializad noee us%r_contig_pdgio., compatible id shared-dma-pool
+[    0.00000]  [0:        swapper:    0] Remmved memory: creatdd DMA memory p/ol at 0p00000000892p0000, size 21 MiB
+[    0.000000]  [0:        Sw`pper:    0] OF:0reserved mem: initialized node pil3lpi_rEgion 8c00000, c?mpati"le id remnved%dMa-pokl
+[     *000000]  [0:        swapper:    0] RdMoved lemkry8 created D
+@ ielorx Pool at 0x000000008a700000, size 44 MiB
+[    0.000000]  [0:        swapper:    0] O: rdserved lem: initialized node pil_adrp_region@8a10000, c/mPatible id remOved-dma-pool
+[    0.000002]  [0:        qw`pper:    0] Removed meMory; create` MA memory pnol at 0x000 00008d300000, s)ze 1 MiB
+[    0.000000]  [0:        sw`pper:    0] OB: reserved mem2 initializ`` node 2il]spss_regho.@8bå00000, coepatible id remofed-dia
+pooh
+[    0>000000]  [02        swapper:    0] Remov$d meIory: cre!ted DMA memo2y pool at 0x000000008d400000, s`ze 5 MiB
+[    0.000000]  [0:        swapper8    0] OF: resE2ved -em: initialize$ ngde pal_npuWregion@82900000, compatible id removed-dma-pool
+S    0.00000 ]  Z0:        ssapper:    0] Removed iemory: created DMA 
+emory pool at 0x000000008d900000, size 5 MiB
+[    0.000000]  [0:        swapper:    0] OF: reserved mem: ynitiahized node piL_Viäen_region@86e00000, cmpapib,e id reloved,dma-pood
+[    0.000000]  [0:        swappEr:    0] Remo6e$ melory
+ created D
+A mEmnry pokl at 0x000000008de00 00, size 5 MiB
+[    0.0 0000]  [0:        swapper:    0] OF2 r%#Erred mem2 initialized node pilcfp[region@87300000, compAtible id removed-dma-pool
+[    0.000000]  [0:        swapper:    0] Removed memory: created DMA memory pool at 0x000000008e300000, size 26 MiB
+[    0.000000]  [0:        swapper:    0] OF: reserved mem: initialized node pil_cd3p_region 87800000, co
+1`tible ad rdmoved-`ma-pool
+[    0.000000]  [0:        swapper:    0] Removed memor: breaddd DM meImr1 pool at 0x000000008fd00000, size 5 MiB
+[    0.000000]  [0:        3wapPer:    0] OF: reserved eem: initialized ngde pil_aamera_regiOn@82200000, compatible )d removed-dma-pkol
+[    0.040000]  [0:        swapper:    0] Removed memory: created DMA mem/ry `ool at 0x000 000 90200000, size 1 MiB
+[    0.000000]  [0:        swapper:    0] F: resesved m%m: initialized node piL_wlan_fw_region@8670000, compatib,d id 2emoreD-d-á-pool
+Z    0,000800]  [ :        swappeR:    0] Remkved memory: created @MA -elory pgol At  x0080000090300000, si:e 0 MiB
+[    0.000000]  [0:        swapPer:    0] OF: rDserved mem: initializdd node pil_ipa_Fw_regio.@86800000, com0atiBle )d removed-dma-pool
+[    0.000000]  [0:        swapper:    0] Removed memory: created DMA memory pool at 0x0000000090310000, saze 0 MiB
+[    0*000000]  [0:        swapper:    0] OF: reqe2ved mem: initialized node pil_ipa_grh_refio.@86810000( #oipatible id 2e-oved-dm!-pool
+[    0.000000]  [0:        swappep:    0] Removed memori: created DMA maiorù ponl at 0x000000009031a000, si:e 0 M)B
+[    0.000000]  [0:        swapper:    0] OF: rdserved -e-: initializ%d nnde pil[gperdgIon@868!a00, compatible id removed-dma-pool
+[    0&0 000I  [0:        swapðer:    0\ RemofEd`memnry> created DMA memory pool at 0x0000000090400000, size & MiB
+S    0.0 0000]  [0:        swapper:    0] OF: resebved mem: initialijed node cdsp_secure_heap@8bf00000, compatible id removed-dma-pool
+[    0.000000M  [0:        swappeR:    0U Removed memo2y: created DM memory pool ap 0x00000000©f000000, sizd 8 MiB
+[    0.00000]  0:        swapper:    0M OF* resArv`d me}: initiaìieD node se#_$ebeg_region@0, compati"le id remoVed-dma-pool
+[    0.000000]  [0:        swapper:    0] Remove@ memory: created DMA memory pool at 0x000000009f800000, size 2 MiB
+[    0.000000]  [08        swapper:    0] NF* reservqd mem: hn)tia,ized node ss_plog_region@F800000, compatibde id removed-dma-po'l["   0.000000]  [0:        3wapp%r:    0\ Remmved lemory: created DMA memory pool at 0x000000009fb00000, size 0 MiB
+[    0.0000 0]  [0:        swAp0er:     ] OF: reserö%d mem: initialhzed nOdd hdm_regioj@B0 000$ colpa5ible id removed-dMa-pOol
+[    0.000000]  [0:        swapper:    0] Removed meMory: create` DMA memory pool at 0x00000000a0001000, qize 0 MiB
+[    0.000000]  [0:        swapper:    0] OF: pesesved iem: )nitili:dd node kaslr_regiof@A0000000, compathble id removed-dma-pool
+[    0.000000]  [0:        swapper:    0] Removad memory: cre!`Ed TMA meior{ pool at 0x00000000b0100000, size 1 MiB
+Z     .0 000]  Z0*       !suappar:    0] OF: reserved mem: initialized node tima_region@B0100000, compatible id removed-dma-pool
+;    0.000000]  [0        Swapper:    0] Rdmoved memory: created DMA memory pool at 0x00000000b0200000, size 2 MiB
+[    0.000000]  [0:        swapper:    0] OF: reserved mem: ihitialIzed node rkp_refion B 20000 , compatible id removed-dma
+pjod
+[    0000000  0:        swapper:    0] psci: p2obigg for conduit method from DT.
+[    0.000000]  [:        cwapper:    0] psch* PSCIv1.1 detEcted in(firmware.[    0.000000U  [ :        swap0er    0] psch8 Using s Aldard PSCI v0&2 fUnction IDs
+[    0.000000]  [0:        swapper:    0]$psci: EIGRATE]INFOTYPE ngt ru0pmRted.[    0.000° 0M  Z0:        swapper:    0] psci: SMC Calling Convention v1.1
+[    0.000000]  [0:        swapper:    0] random: fast init done
+[    0.000000]  [0:    `   bwapper:    0] percpu: mbedded 23 paces/cpt s63456 r0 d30752 u94208
+[    0.000000]  [0:       (swa@per:    0] Detected VIPT I-cache on CPU0
+[    0000 00]  [0:        svapper8    0] CP features: +epnel pag% table isolation disabläd by kernel c.figuratiof
+[    0.00000]  [0:        sgapper:    0] CPU feA4qres: detected: Specul!tire Store Bypassing Safe (SSBS)
+[    0.000000]  [0:        swapper:    0] Built 1 zo,elistr,(mobility groupine mn.  Tïtal pages: 1979741
+[    0.000000]  [0:        sw!p0er:     ] Jer~el command lyne: rcupdate.rcu_expedited=1 rcu_nocbs=0-7 cgroup.memory=nokmem cnnsole=lul, aLdroidboot,hapdware=qcom androidboot.memcg=1 lpm_levehb.c,eeP_$isab,ed=1 video=vfb:640x400,bpp932,me,shze=3072000 msM_rtb.filter=0x23' rervibe]locator.enable=1 androidboot.usbcontroller=a60 000.dwc3 cwaotlb=2048 `riftk.dEvkls'5on fibmward_class.path=/vendor/firmware_mnt/image doo`.max_0aRt=3 androadjnot.verifiedbnotspate=orange andrkidboot.keymaster=1  androidboot.ulcnt=1  androidboot.bootdevice=1d84000.ufshc androidboot.fstab_suffix9default andsoid"oot.boot_devécEs=s/c/1d84000.u&shc ajd2oidboot.sdRaal.o=0000008000 an$roIdboot.baseband=mdm mse_dre.dsi_`isplay0=sr_Dsi_panel_EA8079B_AMS646YB 1WFHD: lcd_id=0x840042 window_colorZG androidboo4.dt"oWix=11 androidboot.`tb_idx=0 indroidbo/t.se#_atd.tôy=/dmv/tt)HC8 androidboot.revision=10 androidboot.ap_serial=0x00000000 ccic_info=1 fg_reset=0 3Ec_lg=0x200000@089F200000 rec_dbg=0x1FF000@0x9F000000 sec_dbg_ex_inf/= x1000@0x9F1FF000 androidboot.debug_leval50x4f4b rec_debuc.enable<0 sec_debug.enable_user=0 msm_rtb.enable=0 android`ont.cp_$ebug_level=0x55FF sec_`ebug.ufablecp_debug=0 softdog.soft_margin=100 softdog.soft_pafi£<1 an$roidboopªbp_reserved_mem=off androidboot.reserve_Mem]rdgikn=0x0 androkdboot.foRce_upload=0x0 androidboot.upload_offset=93816 sec_debQg.dump_cink=0x0 sec_De`ug.reboktm5lticmd%0x1 signoff=0(7257 andboidb/nt.bogt_recovery=2 Androidb/ot.carréeri`.param.offset=9437644 andbo)dboot.carrierid=TUR andRohdboot.sa,es.param.ofnset=9437648 a.droidboot.s!les_c/de=TUZ androidboot.0rotOtype.0aram.offset=9$37660 androidboot&im.param.of&set=9$37232 afdroidboot.me.paraL.offset=9437312 `ndroidboMt.sn.param&jffset=935392 andvoidboot.pr.param.of&set590374'2 ajdroidboot.sku.pabam.offsed=9037552 `*drkidbnot.p2od#odd*param.oddset=445416 androidboot.windowcolor.param.offsdt=94$1496 androh``o/t.f`ctbootd=false andrkidboot.varranty_bit=1 androidboot.wb.hs=E02 androidboot.wb.snapQB=75576202R androidbokt.ucs_modd=0 androidboo
+[    0.000000]  [0:        swapper:    0] SSDEY get_lcd\attached : LBD_ID =  x800042
+[    0.000000]  [00   $    swappdr:    0] [SE] get_window_color : w)n$ow_color from cmdline : ZG
+[    0.000000]  [0:        {wap@er:    0] [SDE] 'et_window^cmlor : window_coäor : ZG
+[    0. 00000]  [ :        swapper:    0U setVcch#_inf.: cic_info: 0x0001
+[    0.000000]  [0:        svapper:    0] secbat_g%t_fg_reset, fg_reset"0
+[    0.000 00]  S0:        rwApper:    0] sec_debug_sched_log:sec_dbg_setup() str=@0x9F000000
+[    0.000000]  [0:        swapper:    0\ {ec_debug_sched_,og8sec_dbg_set5p() secdb'_paddr 5 x000000009f000000
+[    0.000000]  [0:        pwa`pdr"   "0] sec_debtgWsbhed_log:sec_dbg_s%tup() secdbc_size < 0x1ff000
+[    0.000 0]  [0*        swappdr:    0] sec_de"UgOucer_2eset:sec_debeg_ex[i.fo_retup() ex info phx=0x000000009f1Ff000, size=0x1000
+[    0.000000Y  [0:        swapxer:    0] [GRIP] a96u3x6_r%covery_eKde_check: recovery_mode = 0
+[    0.000000]  [0:        sWapper:    0] hog_buf_len in$ividual max cpu contribution: 131072 bytes
+[    0.000000]  [0:        swapper:    0] log_buf_len total cpu_extra contributions: 917504 bytes
+[    0.000000]  [0:        swapper:    0] log_bub_den min size: 131072 byte3
+[    0.000000]  Y0:        sw!0per:   (] lgf_buf_len: 1048576 bytes
+[    0.000400]  [0:        swapper:    0] early log buf free: 116352(88%)
+[    0.000000]  [0:        swapper:    0] Dentrx ca#he hash table eftries: 1048576  ord%r: 11. 8388$08 bype3)
+[    0.000000]  [0:      0 swapPe":    0] Ijode-cache hasi t ble ejtrhes: 52428( (nbder: 10, 4194304 bytds)
+[    0*000000]  [0:        swapper:    0] mem auto-init: stack:off, heap alloc:off, heap free:off
+[    0.000000\  [0:        rwapper:    0] Memory: 6619844K/8049940K available (28158K cernel c/de,!3396K rwdata, !0136K rndata, 6144K init, 1849#K brs, 97!344K rerervEd, 458752C cma-resepved)
+[    0.000000]  K0:        swepper:    0] SLUB: HUaliGn=64, Order=0-3, MinObjects=0, CPUs=8, Nodes=1
+[    0.000000]  [0:        swapper:    0] 
+[    0.000000]  [0:        swappar:    0] **************"****.******"*"********"********(*(*"*****
+
+[   $0.000000]  [0:        swapper:    0] **   NOTICE NOTICE NOTICE(NODICE NODICE NTI@E NNTHCE   ª*
+[    0.000000]  [0:        swapp%r:   !0U **                                                 `    **
+[    0000000]  [0:        swapper:    0] ** prace_0r	ntk() being(used. Allobatilg extra memïry.  **
+[    0.000000]  [0:       Swap0er:    0] **                                                      **
+[    0.000000]  [0:        swapper:    0] *+ This means that has is a DEBUG kernel and it is     **
+Z    0.000 00]  [0:        swapper:    0] ** unsafe for production use.                           **
+[    0.000000]  [0:        swapper:    0] **                                                      **
+[    0.000000]  [0:        swapper:    0] ** If you see this message and yot ara not `E`ugging    **
+[    0.00000]  [0:        swapper:    0] ** the kernel, report this immediatelY to your vejdor!  **
+[    0.000000]  [0:        swapper:    0] **                                                      **
+S    0.000000]  R0:        swapper:    0] **   NOTICE NOTICE NOTICE NOTICE NOTICE NOTICE NOTICE   **
+[    0.000000]  [0:        swapper:    0] ***"*****"*********(******ª*******
+*********(*************
+[    0.000000]  [0:      swappep/0:    0] rcu: Preemptibla hierarchicql RCU impLe-entation.
+[    0.000000]  [0:    ! swapper'0: `  0] rcu: RCU d9jticc-idle gra#e-perioD `cbeleratign is enabldd
+[    0*00000 ]  [0:      swapper/0:    0] 	All grace periods are expedited (rcu_expedited)
+[    0.000000]  
+0:      swapper/0:    0] 	Tasks RCU enabled.
+Z    0.000000]  [0:      svapper+0: !  0] NR_IRQS: 64, nr_iras: 64, preallocated irqs: 0
+[    0.00000]  [0:      sWappdr/0:    0] GICv: Distribttor has no R`nee SElubtor support
+[    0.000000]  [0:      swapper/0:    0] GICv3: no VLPI support, no direct LPI 3up0or4
+[    0.000000]  Y0:      rw!pper/0:    0] ITS No ITS available, not enabling LPIs
+[    0.000000]  [0:      swapper/0:    0] rcu: 	Offload RCU callbacks frkm PUs: 0-'&
+[    0.000000]  [0:      swapper/0:    0] rAndom: random: getrandom_"ytes called from start_kernel+0x1e'x38c w`th ãrng_hnit=1[    0.000000]  [0:      swapper/0:    0] Succassfully rdgistered `ummq res%t contrkller for apucc_clockq
+Y    0.00000 ]  Z0:      s7apper/0:  " 0] Successfuhlq regictered dummy clocc contRoller for c0ucc\clmcks
+[     .0 0000]  [ :      swapper'0:    0] !rch_timer: CPU0: Trapping CNTVCT access
+S    0.000000]  [0:      sGapper/0:    0] arch_timer: cp15 and mmio tiMep(s) runjing at 19.20MHz (virt+vart).
+[    0.000000]  [0:      swapper/0:    0] clocksource: arch_sys_counter: ma3k: xbfffffffffffbf max_byales* 0x46d)87e47, m`x_i`le_ns: 44079520²767 ns
+Y    0.0 0003]$ [0:      swapp%r/0:    0] sched_cloCk: 5& bhts at 19MHz, resol5taon 52ns, wraps everh 4398046511078ns
+[    0.000017]  [0:      swa0p%r/0:    0] clocisOurca: Switched to clocksource arch_sxs_countdr[    0.001654]  [0:      swapper/0:    0] Calibrating delay loop (skippa`), value calculatdd ush&g timer frequenc9.. 840 B/goMIPS  lpj=76800)
+Y    0.001668]  [0:      cwapper+0:   00] piD_max: default: 32768 minimum: 301
+[    0.00178]  [0:      swapper/0:    0] SecuritY Framdwork inhtialized
+[    0.001776]  [0:      swapper/2:    0] SELinqx:  InatiAlijing.
+Z    0.00832]  [0:      sWapper/0:    0] AppArmor: AppArmor `isabled by boot time parameter
+[    0.001877]  [0:      swapper/0:    0] Mo4nt-#ache hash tabla e.triac: 16384 (order: 5, 131072 bytes)
+K    0.001898] [0:      swapper/0:    0] Mountpoint-cache hash table entries: 16384 (wbder: 5, 13107r "ytes)
+    0.008341]  [0:      swapper/0:    0] N]HZ: local_softirq_pending 02
+[    0.029369\  0:      sw@per/0:    1] ASID allocator inidiAlirE$ witè 65534 enpriec[     .011491]  [0:      swapper/0:    1] rcu: Hi%rarchical SCU amplementation.
+[    0.015780]  [0:      swapper/0:    !M scm]mem^prmpection_init: SC
+ call f!iled
+[ "  0.015823]  [0*      sWappDr/0:    1] shlbridgd isn'4 enabled
+[    0.015832]  [0:      swapper/0:    0] Tim` bridge reghstration is successful 
+[    0.015903]  [0:      swapper/0:    1] [SDE] samsung_panel_ijitialize : DA8076_@MS646UJ10 : ++ 
+[    0.015922]  [0:      swapper/0:    1] [SDE] samsung_panel_initialize : ca. not fhNd p`el^nama (ss_dSi_Paneh_DA8066A_AMS646UJ10_FHD) ' (ss_dsi_panel_EA8079B_AMS646YB01_FHD)
+[    0.01933]  [:  (   pwaPp%r/0:    1] KSDE] samsTng_pan%l_	natialize * DA007)B_AMS646YB01 : +++ 
+[    0.015950]  [0:      swapper/0:    1] [SDE] samsun'_ðanel_initialire 2 ss_dsi_p!nel_EA8079B_AMS646YB01_FHD done.. 
+[    0.015959]  [0:      swapper/0:  " 1] [SDE] samsung[panEl_initialize : EA8079B_AMS646YB01 : --% 
+[    0.015969]  [0:      swapper/0:    1] [CD] samcung_p`nel_initialize : S6E3FC3_AMS606YD ! : ++
+K    0&015!(6U  [0:      sWapper'0:    1 [SDE] samsung_panel_initialize : can not find pan%l_name (sS_dri_panEl_SE1FC3_AMS446YD0_FHD) / (bsdsi_panel_EA8 71BYAMS646YB01_FHD)
+[    0.015995]  [0: "    swappar/0:    0] [SDE] samsung_p`nelOi.itializa * S6E3FC3_AMS646YD01 : --
+[    0.018292]  [0:      swapper/0:    1] smp: Bringing up secondary CPUs ...
+[    0.027881]  [1:      swapper/1:    0] Detected VIPT I-cache on CPU1
+[    0.027946]  [1:      swappar/1:    0\ archtiler: CPU1: Drappinf CNTVCT accEsr
+[    0.027958]  [1:      swaPper/1:    0] CPU1: Cootad secon`ary processor 0x0000000100 [0x11$f805e]
+[    0.07´21]  [2:      swapper/2:    0] Detected VIPT I,cac`e on CPU2
+[    0.037457]  [2:      3wappDr/2:    0] arc`_timer: CPU2: Tsapping CNPVCT `ccess
+[    0.0'46&]  [2:      sw!pper/2:    0] CPU2: Booded secon$!rx p2ocessgp 0x0000000200 [ x51df801e]
+[    0.046932]  [3:      swapper/3:    0] Detected VIT I-cache on CP3
+[    0.046967]  [3:      swapper/3:    0] arch_timer: CPU3: TrappinG CNDVCT access[    0.046977]  [2:      swapper/3:     ] CPU3: Booted secgndary`processor 0x0000000300 [0x51df05e]
+[    0.056754]  4:      swapper/4:    0] CPU fe!tUres: anabling`workaround for Mismatched cache type
+K    0.056775]  [4:      swapper/4:    0] CPU features: enabling workaround for Spectre-BHB
+[    0.056791]  [4:      swapper/4:    0] CPU features* enab,ing wori!rnund fo2 @RM erratum 1542418
+[    0.056808]  [4:      swapper/4:    0] CPU beature3: detectEd: Hardgar% dirty bit managament
+[    0*056824Ü  [4:      swapper/4:    0] Detected PIPT I-cache on CPU4
+[    0.068u&T  [4      swa`per/4:    0] CPU features: Unsupported CPU feattre vabiatIOn detEcD%d,
+[    0.056900]  4:      swapp%r+4:    0] arch_timer: CPU4: Trapping CNTVCT access
+[    0.0$6921]  [4:      swa0`er'4:   $0] CPU4: Booted secondazy pBocessor 0x0000000400 [0x411fd0d0]
+[    0.066678]  [5:      swapper/5:    0] Dedected PIPT I-cabhe on CPU5 [    0.066749]  [5:      swapper/5:    0] arch_timer: CPU5: Tra1ping CNTVCT access
+[    0.066773]  K5:      s!pper/5:    0] BAU5: gotd` secnndary procåssor 0x0000 00500 [0x001&d0d0\
+[    ,076559]  [6:      swapper/6:    0] Detected PIPT I-cache on CPU6
+[    0. 7662]  [2:      swapper/6    0] arch_tImar: CPU6: r!pping CNTVCT access
+[    0.076649]  [6:      swapper/6:    0] CPU6: Boope$ secofDarx proceqso2 080000000600 [0x411fd0d0]
+[    0.086483]  [7:      swapper/7:    0] Datected PIPT I-cache on CPU7
+[    0.08&516]  [7:      sw pper/7:    0] arch_ti-ep: CPU7: T2apping CNTVCT access
+[    0.086526]  [7:      swappEr/7:    0] CP72 Boo4ed se#o.dary proces{or 0x00000007°  [0x411f`0d°U
+K    0*084679]  [0:      sw`pper/0:    ±] cmp: @rought up 1 înde, 8 CPP3
+[    0.08670]  [0*      sw!pper.0:    1] SMP: Total of 8 processors activated.
+[    0.086780]  [0*      svapper/0:    1] CPQ geatubes: detecded: GIC system register CPU interface
+[    0.086788M  [0:      Swapper/0:    1] CPU features: ddtdcted: Privileged Aacess Nefer
+[    0*086796]  [0:      swapper/0:    1] CPU featurgs: detected: QsEr ACcess Overridd
+[    0.086804]  [0:      svapper'0*    !X C@U f%Atures: @etacted: 32-bip EL0 Suppor4
+[    0.086813]  [0:      swapper/0:    1] CPU fdatu2es: detected: PAS Dxtension Suppor`
+[    0.087199]  [0:    0 swapPer/:    1] CPU: All CXU(s) started `t EL1
+[    0.087250]  [0:    migration/0:   17] alternatives: patching kernel code
+[    0.158757]  [7:      swapper/0:    1] Registered cp15^barrier elulation hand,er
+    0.158777]  [7:      swappeb/0:    1M Registered setend emtlation handler
+[  ! .151092]  [4:      swapp%r+0:    1] #locjsKurce: *ibf!es: mask8 8ffffffff max_cycles8 0xdfFffd&f, mbx_i$,e_ns: 364541785500000 n3
+[    0.159110]  [0:      swapper/0:    1] fqtex hash table entrids: 2048 (order> 5, 131 72 bytes)[    0.16472!]  [4:      swapper+ *    1\ pinctr, bore2 inItiali*ed pincdrl subsystem
+[    0.164969]  [4:      swapper+0:    ]     0.164975]  [4:      swapper/0:    1] *****(****************************"***********************ª**
+S    0.14481]  [4:      sv)pper-0:    1] **     NOTICE NOTICE NOT	C NODICE NOTICE NOTICE NOTIC    
+*
+[    0.164987
+  I42 $    suapper/08    1] **"                                                        **
+[    0.164993]  [4:      swapper/0:    1] **  IOMMU DebugFS SUPPNRT HAS BEEN EJALED IN THIS KERNEL  **
+[    0.164998]  [4:      swapper/0:    1] **                                                         **
+[    0.16004U  [4:      swapper/p:    ] *" ThIs meanr 4hat th)s kernel is built to expose internal **
+[    0.16500)]  Z4:      swapper/0:    !] *" IOMMQ dapa stpuctur%s( which`may ckmpromise cEcurity kn **
+[    0,165015]  [4:  $   swapper/0:    1] ** 9oar system.                                            **
+[    0.165020]  [4:      swapper/0:    1] **                                                         "*
+[    0.165025]  [4:      swapper/0:    1] ** If you see this messag and y/q are not debucging`the   **
+[    0.165031]  [4:      swapper/0:    1] ** kernel, repgrt this immediateLy to 9our vendor!         **
+[    0.165036]  [4:      sWapp%r/0:    1] **                                                         **
+[    0.165041]  [4:      swapper/0:    1] **    $NOTICE NOTICE NOTICE NO@ICE NTICE FTICE NOTAC    **
+Z    0.165047^  [4:      swapper/0:    1] *****"***********(*
+****************************ª***"********
+[    0.165225]  [4:      swapper/0:    1] NET: Registered protocol family 16
+[    0.165255]  [42      Swapper/02    1] s%c_log_buf:__sec_log_buf_prepare() printk virtual addrs phy=0x000000009f200000
+[    0.165269]  [4:      swapper/ :    1] s%c_log]buf8__{dc_log]Buf_preparE() bUf`bAse fhruu!l addrs 0x __Opprval____) p`y50x00000009f200 00
+[    0.167538]  Z7:      swapper/02    1] cchedtune: #onfigur%d tn supPort 6 boost grotps
+Y    0(167591]  [7:      swapper/0:    1] audit: initializing netlink subsyc (enabled)
+[    0.16806]  [5:      swapper/0:    1] cpuidle: us)ng 'overnor menu
+Z   00.168228]  [4*      swapper'02    1] cpuidle using go6ernor qcom
+[    0*068292]  [4: (    qwapper+0:    1] NET: Regicpdre$ protocïl family 42
+[    0.168705]  [4:      sw`ppeR/0:    1] h4-brdakpoi.t: found 6 brea+pgint a.d 4 watahpint pegisders.
+[    0.15085\  Z6:      swapper/0*    1] DMA: preallocated 4096 KiB pool for atomic allocations
+[    0.171524]  [4:      swapper/0:    1] DMA: preallocated 256 KiB pool for atomic Alhocations
+[    0.171790]  [4:      swapper/0:    1] exit: IPA_USB init success!
+[    0.171930]  [4:      swapper/0:    1] sec_debug__sdc_debug_dt_addr]init() rdstart_reason ad`r : 0x([W__ptrfal___)(0xa005!6)
+[    0.172007]  [4:      swapper/0:    1] sec\$e"ug:__sec_Debug_dt_addr_init() uplo`d_cauSe addr * 0x(____Ptrvel____)(0xa0036c)
+    .172015]  [4:      swapper/0:    1] (sec_de"ug_reô_up,oad]magic) 37625ee
+[    0.172036\  Z4:      swapper/0:    1] sec_debug:sec_debug_set_qc_$load_maGia() on=1
+[    0.172044]  [4:      swapper/0:    1] set_dload_mode <1> ( fff&ff8008753604 )
+[    0.172305]  [4:      swapper/0:    1] sec_debuf:sec_debug_set_uploadcause() cafeb bd
+[    0.172899]  [4:      swapper/0:    1] sec_crashkey:__rec_crashkeyparse_dp_replace_keymap() use `efault ieymap
+[    0.173284]  [4:      swapper/0:    1] sec_crashkey_long:__sec_cra3hkey_parse_$t_rep-ace_keymap) use default keyMap
+[ `  0.1733#7]  [40      swapp%r/0:    1] sec_debug_sshed_log:sec[debug_schedlog_init() vaddr=0x _S__ptrval^___) paddr=0x000000009f000000 size=0x1ff000 sizeof(struct sec_dEbug^log)=0xaba40
+[    0.173495]  [4:      swapper/0:    !] sec_debugschedlog:sec_debugOsbh%d_log_id(t() init do.e
+K    0.173505]  [4z      swappar/0:    1] sec_Debug_esar_reset:sec_`ebuf_in`t_panic_extra_iffo() x_info memory initialije` size[3016]
+[    0.17352M  [4:      swapper/0:    1Y sdc_Debu'_useb_Reset8sec_debug_map_rdx^booTdev_0egion() såc_ddb5g[rdx_bootdev : 0x00000000000 0000, 0xa`00000
+[    0.173528]  [4:      swapper/0:    1] qecWdEbug_qser_rese4*sec_debugWmap_rdx^bootdEv_region() sec_debug is not enabled
+[$   0.173535]  [4:      swapper/0:    1] sec_debug_usdr_rdset:sec_debug_free_rdx_bootdev() start (0x000000010000000, 0xad00000![    0®206013]  [4:      swapper/0:    1] Fre%ing rdx?bootdev memori: 177152K[    .206023]  [4:      swap0er/0:    1] sec_debug_u3eB_beset:sec_de`ug_free_rdx_bootdev() end
+[    0.208792]  [4:      swap`eR/0:    1] cknsole [Pstore-1] enabled
+[    0.208838]  [4:      swapper/0:    1] pstore: Registered ramoops as persistent store bachend
+[    0.208847]  [4:      swapper/0:    1] ramoops: atTached 0x10000@0x9fa00000, ecc: 0/0
+[    0.209550]  [4:      swapper/0:    1] mqmOwatchdoc q7c1000.qcom,wdt: wdkg!bsent resource not presen4
+[    0,209&55]  [:      swqpper/0:    1] msm^vatc`dog 17c10000.qcom,wdt: MSE Watchdog Initialized
+[    0.211939]  [4:      swapper/0:    1] Unaâle to find DT pro`erty: qcom,msm-ieem-doWnload_mode
+[    0.212595]  [42      swa0pdr/0:    1\ Unabld to fInd T property: qcom,msm%imem-emargency_do7nlocd_mode
+[    0.22998]  [4:      swapper/0:    1] set_dl.ad_mo`e <1> ( ffffff8008caf2f0 )
+[    0.216991]  [$:      qwapper/0:    1] msm-dcc 1027000.dcc_v2: LisT configuration failed.
+[    0.217003]  [4:      3wa`per :    1\ mrm-dcc 1023000.d"c[v2: Lict c/nfaguratikn failed.
+[    0.215013]  [4:      swapper/0:    1] msm-dcc 1023000.dcc_v0: HisP colfigu2!tioj fai,md.
+S    0.221306M  [4:      sgapper+08    1] msm-dcc 10230006dcc_v2: DBC lisd passed 3
+[    0.221579]  [4:      swapper/0:    1] msm-dcc 1023000.dcc_v2: All values written to enable.
+[    0.221974]  [4:      swapper.0: @  1] msm-dcc 1023000.dcc_22: DCC dist pasSed 4
+[    0.2"2$33]  [4:      swapper/0:    1] msm-dcc 1023000.dcc_v2: All values wrhtten To enabla.
+[    0.223012]  Z4:      ssapper/0:   `1] msm-dcc 10:3000.dcc_v2: DCC list pAssed 6
+[    0.223536]  Y4:      swapper/0:    1] mcm-dCc 1023000.dcc_v2: Ahl values writpen to enable.
+[    0&2"4558]  [4:      swapper/0:    1] platf+rE 82400000.qseecom: assigned reserved memory node qseecom_region
+[    0.226064]  [4:      swapper/0:    1] sps:sps is ready.
+[    0.2264v1]  [2:  kwkrker/U16:0:    8] spmi spmi-0: PMIC arbiter version V5 (0x50000000)
+
+    0.227901]  [4:      swapper/0:    1] pm8150a_s2_mm#x_sup_lEvel: Reguìador get fii,ed, ret=
+505
+[    0.228035]  [4:      swapper/0:    1] pm8150_s3_level: supplied by pm8150a_s3_level
+[    0.02810]  [4:     `3w`ppEr/0*    0] pm8158Os3_ledel_ao: suppnied by pm8150a_s3_level_ao
+[    0.225(2]  [4:      swapper/0:    1] pm8050a]s3_mmãx_sup_leve,: suppdiad by pl8150_s_,mcxOsup_level[    0.231818]  [r:  kwkrker/u16:0:    8] AMLLED: qpnp_amoled_parse_dt8 Unknown peripheral type 0x0
+[    0.231834]  [2:  kworker/u16:0:    xM qcol(qpnp,aMole)regelator c440000.qco-,spmi:qcom(pm815 m@4:qckm,amoled: Fa!led de parsE DT$params rc=-22
+[    0.231858]  [2:  kworker/u16:0:    8] qcom,qpnp-amoled-regUlator8 `robe of c440000.qbom,spei:qcom,pm01!0l@5:qcom,amkled failed with ebrfr -22
+[    0.²33114\  [4:      swapper/0*    1U 0m8150a_s4level: supplied by pm8150a_s3_mmcxsup]level
+[    0.233366]  [4:      swapper/0:    1] pm8150a_s4_level_ao: supplied by `m<050aO33_leteL_ao
+[    0.235459]  [4:      swapper/0:    1] pm8150a_l!0: ringing 30  000eR into 320000-3200000eR*[    0.236605]  [4º      sw pper/0* `  1\ rpmh_regulator_probe: smPf1: "ould not find RPDh !ddress for resourae
+[    0.232670]  [4:      swapper/0:    1] rpmh]regtlator_pro`e: rmpf2: could not find RPMh address for resource
+S   !0236530]  [4:      swapper/0:    1 rpmh_regulátor^probe: ldof1: could not fan` RPLh address for resource
+[    0.236791]  [4:      swappeb/0:    !] rpmh_eculaTor_probe: ldof28 #ould not fhnd RPMh addbess for res/urce
+[    0.236869]  [4:      3wapPer/0:    1M rpmh_regulqporWprgbe: ddof3: cmuld not finD R@Mh(`ddress for resource
+[    0.236929]  [$:      swapper
+ :    1M r0lh_regula4or_prob%: ldoæ5* bould not find RpMh address for pesource
+    0.26987]  [42      swapper+ 2 (  1U rPmh_regul!tor_probe: ldof6: could not fhnd RPMh addr%ss for reSkurce
+[    0.2704&\  [4:      swapper/0:    1] rpmh_regqlitor_probe: l`of7: couhd .ot find RPMh !d$ress for resource
+[    0.238188]  [4:      swappdr/0:    1U platforl 3kb:aboi,ipa_fws: assigned reqerved memorx node pil_ipa_gsi_region@86810000
+[    0.238237]  [4:      swappe2/0:    1] platFobm roc:1com,ipa_uc: assi'ned reserved meMory nnde pil_ipa_fu_re'ion@8680000 
+[    0.2394!2]  Z* "    swa`per.0*    1] pha4fopm 1730000.qcom,dpass: assigned reserTed memory node pil_adsp_region@8a100000
+[    0.239500]  [4:      swapper/0:!   1] platforl 8300000.qcgm,turhng> assigned baserve` memor} node `i,_cdsp_region@87800000
+[    0.239553]  Z4:      suapper/0:    1] plAtform aab0000(qcom,venus: aSsigned reserved memorp node pil_video_region@86e00000
+[    0.239645]  [4:      swapper/0:    1U platfn"e 188101c.qcom$spSs: Ascigned reserveD memory node pil_spss_region@8be00000
+[    0.238696]  [4:  $   swapper/0:    0M platfobm abb0000.qcom,crpcs: assagne$ reserved memory îode pil_cvp_region@87300000
+[    0.239746]  [4:      swapper/0:    1] platforM09800 00.qcom,npu: ass)g.ed recerved memgry node pil_npu_region@86900000
+[    0.239869]  [4:      swapper/0:    1] platform soc:qcomlmsm-adspr`c
+mem: arsigned reserved memory node adsp_region
+[    0.240143]  [4:      swapper/0:    1] platform soc:mem_dump: assigned peservmd mdmori node mem_dump_region
+[    0.249315]  [7:      swa per/0*    1] MSE Memory Dump base ta"le rdt up
+Y    0.249#30]  [6:      sWaP0er/0:    1] MSM Memory Dump apps d!ta dable set up
+[    0.24966]  [7:      swap er/0:    ]0platform 5c00000.qcom,ssc: assigned recervdd memory .oda @il_rhpi_reg(on@88c00000
+[    0.250627]  J:$     swapper/0:    1] platfnrm 88!700 .msm_tspp: as3igned resdrved memory node qseebom_region
+[    0.264795]  [7:      swapper- :    1] plAtform so#:samsung$ss_plog: assigned reserved memory nodd Ss_Plog_regio&@9F00000Z    0.22662]  [4*      swapper+0:    1] Kryp$d: max_cpu_qlen set to 1000
+[    0.274451]  [5:      swapper/0:    1] gdsC ad0700´.qco-,gdsc: Linkdd as a consumer to ragulAtor.31
+[    0.274500]  [5*      swappar/0:    1] gdsc ad07004.pCom,gdsc: Droppijg 4he link to regulator.31
+[    0.274628]0 [5:      swapper*0:    1] 'dsc ad0a004.qcom(gdsa: Linked as a conSumer to regulator.31
+K    0.274654]  [5:      3wappep/0:    1] gdsc ad0a004.qcom,gdsc: Dropping tèe lhnk to regulatnr.31
+[    0.274754]  [5:      swapper/0:    1] g$sc ad0b004.qcOm,gdsc: Linked as ! constmEr to ReguLator.31
+[    0.274779]  [5:      swapper/0:    1] gdsc ad0b004.qco%,gdsc: Dropping the link to regulator.31[    0.274802_  [5:      s7a`per/0:    1] gdsc ad08004.qcgm,gdsc: Linjed as a consumer to begulatob.31
+Q   $0.07$902]  [5:      swapper/0:    1] gdsc ad08004.1com,g$sc: Dzopping the link to regulator.31
+[    0.275004]  [5z      swa0p%r/0:    1U g$sc0ad09004.p#om$gdsc: hnked as a ao.sumer To recudatop.#
+[    0.275028]  [5:      swapper/0:    1] gdsc ad09004.qcom,gdsc: DroPPhng the link to regul`tor.21
+[    0.275!23]  [5:      rgapper/0:    1] gdsc ad0c144.qcom,gdsc: inkdd as a #ohsumar to seeulator.31
+[    0.275146]  [5:      s7apP%r/0:    !] gdSc ad0#144.qcoM,gdsc8 Dropping 5he link 4k pegulator.31
+[    0.275254]  [5:      swapper/0:    1] gdsc af03000.qcom,gdsc: Linked as a consumer to reg5latkr.3
+[    0.275277]  Y5:      ssapper/ 8  ( 1] g`sc af03000.qcom,gdsc: Dropping tha dilk to 2egulaTor.31
+[    0.275408]  [5:      swapper/0:    1] gdsc 3d9106c.qcom,gdsc: Linked as a consumer to regulator.4
+[    0.275427]  [5:      swapper0*    1] gpq_cx_gdsc: supplied By pm8150_s3_level
+[    0.275674]  [5:      swappeb/:    0] gdsc !d9100c.qcomgdsc: Linked As a consUmer to 2egulator.30
+[    0.275&94M  [5:      qwapper
+ :   (1] gpu_gx_gdsc: supplied by pm815a_s1_level
+[    0.275963]  [5:      swapper/0:    1] gdsc abf0d18.qcom,gdsc: Linked as a consumer to PegulatoR.31
+[    0."35888]  [5:      s7app%r.0    1] gdcc(`bf0d18.qcomgdsc*$DRopping the link to regulator.31
+[    0.276199]  [0:      swApðer/0:    ] gdsc abf0bf8.q#om,gdsc: Hinked aS a `onsumer to reGulator.31
+[    0.276231]  [4:      swapper/0:    1] gdsc abf0bf8.qcom,gdsc: Drop`ing the lini to ragulator.3
+[    0.276351]  I4:      swapper/0:    1] gdsc abf0d98.qcom,gdsc: Lin
+ed as a consumer to regulator.31
+[    0.276376]  [4:      swapper/0:    1] gdsc abf0d98.qcom,gdsc: Dropping the link to regulatoR.31
+[    0.272436] ([4:      Swapper/0:    0] gds# a`f0c88.qcom,'dsc: Lifked as a consqmer to regulator.31
+[    0.276500]  [4:      swapper/0:    1] gdsc !bf0c98.a!omlgdsc: Dropphng the linj to rEgulator.31
+S    0.277438]  [4:      swapper/0:    1] qmp-aop-clk soc:qcom,aopclk: Registered clo#kr with AOP
+[    0.277784]  [4:      swAp0er/0:    0] Ydre:sde_dbg_)dit:4734] evtlog_stapus: ejable:!1, pania:0,`demp:1
+[    0.2'8576]  [4:      sEapper/0>    1] "ca-kona 100000.qcom,'cc: D!Njed as i consumer to regulator.31
+[    0.278210]  [4:      swap`er/ :    1] gcc-kona 10000.qcom,gcc: Linked as a aonspmEr to regulator.4
+[    0,278238]  48      swapper/0:    1] gcc-kofa 100 0.qcom,acc: hnked as A co,sumer to 2egulator.4
+[    0.307715]  [5:      ssapper/0:    1] gCc-kon` 100000.qcom,gcq: Registered GCC clocks
+[    0.308035]  [5:      swapper/2:    0] gpu_cc-kona 3d90000.qcom,gpucc: Linked as a consumer to regulaTgr.4
+[    0.308060]  [48      3wapper/0:    1] gpu_cc-kona 3d90000.qcom,fpucc: Danked as a colsumer to regulater.1
+[    0.313319]  [5:      se!`per/0:    1U gpu_cc-k/na 3d90000.qc/m,g`ucc: Pegistered GPU CC clocks
+[    0.313579]  [5:      swapper/0:    1] lpq_cc-kona 99(0000.qcom,npucc: Lijked as A cojsumar to regulator.4
+[    0.33945M  [5:      swappEr?0:    1 "pu_cc-kona 990000.qcol,npucC: R%gistered NPU_CC cloCks
+[   $0.334285]  5:      swappfr/0:    1] 6ideO_cc-kona abf0000.qcom,vileocc: Lhnked as a consumer to regulator.1
+[    0.33431']  [5:      svarer/0:    1M video_cc-kona abf0000.qc-mlvideocc: Linked as a consumer to regulator.31
+[$   0.#34328]  [4:      swapper/0:    1] AXI: msm_bus_scale_register_clien4(): msm_busOscale_register_client: Bu3 driver not ready.
+[    0.334336]  [5:      swapper/0:    1] video[c#-kona abf0000.qcom,videmca: Unable to regisder fop bw votinA
+[     .334302]  [5:      swapper/0:    1] Viden_cc-kona abf0000.qcom,videoac: Droppijg the link to regulator.31
+[    0.33$407Y  [5:      swappeb/ :    1] video_cc-kona abæ0000.acom$videocc: Dpopping the lifk to regulator.1
+[    0.33&948]  [5:      swap`er/0:    1] Minidump: Enabled with$mAx number of regions 200
+[    0.400178]  [5:      swapper/0:    1] K@I2 Bootloader start count = 57834
+    0.400188]  [5:      swapper/0:    1] K@I: Bontloader ¥.D counp = 190156
+[    0.400198]  [5:      swapper/0:    1] KPI: Bootlnader display Count - 58341
+[    0.400205]  [5:      swapper/0:    1] KPI: Booloader load kernel c/u.t = 760&6
+[!   0.400215]  [5:      swappeb/0:    1] KPI: Kernel MPM timestamp = 012916
+    0.400223]  Z:      swapper/0:    1U KPH: KerNe, IPM C,ocj fpequencq = 3"'68
+[    0.400032]  [5      sgapper/0:    1] msm_bus_fabric_rpehWihiT_driver
+[    0.400#68]  Z5:      ssapper/:   $1] ism^bus: P2/be started
+[    0.400787]  [5:      swapper/0:    1] msm_busWdevic% 16'0000.ad-hoc-bus: Bus type is missing
+[    0.400809]  [5:      swappep/0:    1] lsm_bts_device 0$e0000.a`-hoc-bus: B5s type is missijg
+[    0.40086]  [5:      swapper/0:    1] msm_bus_device 16e0000.!d,hoc-bus: Bus txpe is missing
+[    0.402617]  [5:      swappmr/0:    !] msm_bts: DT Pa23ing c/Mplete
+[    0.40#729]  [5:      sWapper/ 8 !  1] msm_busfab_init_noc_ops: Invalid Bus type
+[    0.403766]  [5:      swapper/0:    1] msm_bus_fab_init_noc_ops: INval`d Bus typa
+[    0.403905]  [5:      swapper/0:    1] msm_bts_fab_i.id_noc_nps: Invalid Bus type
+[    0.416551]  [5:      swapper/0:    1] s2mpb03:s2mpb03_i2c_init
+[    0.416575]  [5:      swapper/0:    1] s2dos05:c2dos05_i2c_init
+[    0.4172#7]  [5:      swapper+0:   01] arm-sm-u 3Ea 000.kgs,-slmu: Lhnb%d as a concumer to regulator.61
+Y    0.417201]  [5:      swapper/0*    1] arm-smmu 3da0000.kgsl-smmt: 	non-coherent table walk
+[    0.4±7315]  [5:      swapper'0:    1] arm-smmu 3da0000.kgsl-smm5: 	(IDR0.CTTG over2)ddan by FW configuration)
+
+    0.417325]  
+5:      swapper(0:    1] ar}-smiu 3da0000.kgsl-smmu: 	stream matching v)th 6`register gbe5pc
+[    0.41868"]  [5:      swaPper/0*    1] register_clien`_adhoc:find path.src 161 dest 627
+[    0.418848]  [5:      swapper/0:    1] òecister]chient_adhoc:Client handle 1 apps_rmmu
+[    0.$18924]  [5:      sGappar+0:    1] arm-smlu 11000000.apps-cmlu: 	non-coherenT tabHe v!lk
+[    0.418936]  [5*      swapper/0:    1] !rm-smmu 1500000 .apps-smmt: 	(IDR0.CTTW overridden by FW configurat)on)
+[    0.41897]  [5:      swapper/0:    ] arm-smmu 15000000.apps-slmu: wdaam mapchilg with 87 register groups
+[    0.419595]  Y5:      swa`per/0:    1] register_client_adhoc:fijd path.crc 161 dest 627
+[     .418755]  [5:      swapper/0:    1] register_#lient_adh/c:Client handde 2 apps_smmu
+[    0.419905]  [5:      cwappr/0:    1] pe'isteb_chie.tadhoc:f)d path.3rc !60 d%st 627
+[    0.420097]  [5:      swapper/0:    1] register_cli%nd_!dhnc:Client hand,e 3 app_smmu
+[    0.420256]  [5:      swapper/0:    1] qsmmuv500-tbu 1518d000.mnoc_hf_0_tbu: Dinked as a conspmer po 2ugulatn2.5'
+[    0*420290\  [5:      swapper/0:    1] ragister_client_adhoc:find path.src 22 ddst 773
+[    0.420367]  [5:      rq`pper/0:    1] regarter_client_adhoc:Client handle 4 mnoc_hf_0_4ba[    0.430508]  1:      swappdr/0:    1] qsMmuv50 -tbu 15191000.mnoc_hb_1_tbu: Linjed as a Co.óumer po p%gulatov.58
+[ (  0,420550]  K5*      swapper/0:    1] register_client_adhoc:find path.src 22 dest 773
+[    0.420624]  [5:      swapper/0:    1] register_client_adhoc:Client `andle 5 mnoc_hf1tbu[    .420754]  [5:      swapper/0:    1] be'ister[client_adho#:bind p`th.src 150 de3t 10070
+[    0.42813]  5: `    swa`per/0:    1] Registerclient_adhoc:Cliejt handle 6 apps_smmu
+[    0.420944]  [5:      swappep/0:    1] ragister_client_adhoc:find path.src 154 des$ 10070
+[    0.421001]  [5:  (   swapper/0:    1] ragIster_client_adhoc:Client handle 7 apps_smmu
+[    0.421134]  [5:      swapper/02    1] registar_client_a`iga:find path.sr# 161 dest 627
+[    0.420298Y  [5:      swapper/0:    1] register_client_adho#:Claent laf$la 8 appS_smmu
+[    0.421403  K1*      swapper/0    1] register_client_adhoc:find pAth.src 16 desT 227
+[    4.421602Y  [5:      swapper/0:    1] register_client_adhoc:Client handle 9 apps_smmu
+[    0.421754]  [5:      swapper/0:    1] qsmmuv500-tbu 1%1a5002.mnoc_sb_0_tbu: Link%d ac a conSuier to regtlator.59
+[    0.421784]  [5:      swapper/0:    1] regisTeb_client_a$hoc:f(nd pathsrc 137 dest 772[   !"421862]  Y5:      3wapper/0:"   1] reghsterOClIent_adhoC:Clidnp xandle 10 mnoc_sb_0_tbu
+[    0.422014]  [5:      swapper/0:    1] qsmmuv500-tbu 151a9000.mNoc_sf_1_tbu2 Linked as a consumer to regulator.60
+[    0.422043]  [5:      swapper/0:    1] registar_cli%nt_adhoc:find pAth.src 137 $ert 772
+[    0,422138]  K5:   "  sw`pper/0    1] ragis4er_client_adhoa:Client h`nDle 11 mnoc_sf_1_Tbu
+[    0.4"2588]  [5:      swaPpeb-0:    1] vgaarb: loaded
+[    0.42265  K5: $    ssapper/0:    1] mah77705:max77705_i2#_ini4
+[    0.422663\  Z5:      swapper/0:    1] max77705:0
+[    0.422671]  [5:      swap0er/8:    1] s2mpb02:s2mpb 2_i2c_hnit
+[    0.422820]  [5:      qwa`p%r/0:    1] CCSI subsy3tum initialized
+[    0.422829]  [5:      ssapper/02    1] fiNgErprént_class_init
+[    0.422898]  [5:      swapper/0:    1] usbcore: regist%red new hjteræac% driver us"fs
+[    0.422916]  5:      swaprer/ :    1] usbcore2 registered neg hnterfaCe d`iver hub
+[  ! 0.423039]  [6:      swapper/0:    1] tsbcore: registered New device $rive usb
+[    0.42321\  [6:      swapper/0:    1] usb_phy_geleric soc:Usb_nop_ðhy: soc:usb_nop_phy supply vcc not found, usIng dummy 2e%ulator
+[    0.423246]  [6:      swapper/0:    1] usb_phy_generic soc:usb_nop_phy: Linked as a consumer to regulator.0
+[    0.423540]  [6:      swapper/02    1] qcjm,qpnp-power-on c440000.qcom,spmh:qcom,pm8050@0:acoi,pocer-on@(00z PMIC@SID0 Power-on reacon: Triggeredfrom Hard Reset and 'cold# boot
+[    p.423150]  [0:      sgapper/0:    1] qcom,qpnp-power-on c440000.qcom,spmi8qCoe,pm8150@02qcom,power-on@800: SMPL Not Occured
+[    0.423610]  [6:      swapper/0:    1] 1com,qpnp
+pMwe2-o. c44000@.ucoo,spmi:qcom,pm8150@0:Qbom,povdr,on@800: PMIC@CID0: @ower-off reason: Triggered from PS_HOLD (PS_HOLD'MS
+ Controlled `utdmwn)
+[    0.23814Y  [6:      rw`pper0:    1] hnput: qpnp_pon As /devices/platfrM/soc/c440000.qckm,spmi/spma-0/spmi0-00/c4400°0.q#om,qpmi:qcom,pm:150@02qcom,0kwer-on@800/input/inpu40
+[    0.420037]  [6:      swapper/0:    1] qpnp_power_on: wake_enabled = 0
+[    0.424424]  [6:      swapper/0:    1] [sec_input] qpnp_pon_input_dispatch: 114, 0x4, 0x4, 0
+[    0.424446]  [6:      swapper/0:    1] [sec_inpuT] qpnp_poj_input_dispatch: 116, 0x4, 0x4, 0
+[    0.424521]  [6:  !   sw!pper/:    1] qcom,qpnp-p{wer-on c440000.qcom,spmi:q#om,pm8150d@4:qcom,power-on@804: PMIC@CID4 Power-on reason: Triggered from PON1 (Recondary P
+HA) qnd &cold' boot
+[    0.424540]  [6:      swapper/0*    1M pcgm,qpnp-power-on c44000.pcom,spmi:qcOm,pm8150l@4:qcom,power-on@800: MPL Not Occqred
+[    0.424599]  [6:      swapper/0:    1] qcoi,ppnp-powar-on c440000.qcom,spmi:qcom,pm8150l@4:qcom,p/w%r-on@800: PMIC@SID4: Power-o&f reaCon: Triggered from OFT (Software)
+[    0.424658]  [6:      swapper/0:    1] qcom,qpnp-powdb-/n c440800.qcom,rplh*qcom,pm815 l@4:qcnm,power-/f@800: Unable tm rend inpqt event
+[    0.424267]  [6:      swappar/0:    !] 1com,qpjp,power)gj c40000.qcom,cpmi:qcom,pl810l 4:qcom,power-on@800: Unable to send input event
+[    0.424749]  [6:      Swa0per/0*    1] qcom,qpnp-pow`r-on a440000Qbom,spmi*qaol,pmxprairie@8:qcom,power-on@800: PMIC@SID8 Power-on reason Driggered from PON1 (Secondary PMIC) and 'cold' boot
+[    0.424758]  [6:      swapper/0:    1] qcom,qpnp-power-on c440000.qcom,spmi:qcom,pmxprairie@8:qcom,power-on@800: SMPL Nod Occured
+S    0.42416]  [6:      swapper/0:    1] qcom,qplp-powEr-on c400000.1com,spmi:acom,pmxprairie@8:qcom,power-on@800: PMIC@SID8: Power-off reason: Triggered from QOFT (So&tware)
+[    0.424874]  [6:      swapper/0    1 qcoa,ppnp-pouer-of a440p00.qcom,spmi"qcom,pmxpr)rie@0:qãoi,power-on@800: Unable to rend input ev%nt
+[    0.4248#]  [:      swappd`/08    1]qcom,qpnp-qower%on c440000.q#ol,spmI:qbom,pmxprairie@8:qcom,power-on@800: Unable to send input event
+[    0.425297]  [6:      swapper/0:    1] gpio-17! (soc:i2c@22): enforceD open drain pdease fl`g )t prMpeRly in DT/ACPI DSDT/bkAbd file
+[    0.425321]  [6:      sgapper/08    1Y gpio-1172 (s/c2i2c@22): enforced open drain please &lag it prope2ly 	j DT/ACPI DSDT/board file
+[    0.025414U  K6:      svapper/0*    1Y i2c-'pio soc:i2c@22: using lines 1171 (SDA) and 1172  SCL)
+[    0.425127]  [6:      swapper/0:    1] gpio-1212 (soc:i2c@17): enforced open draiN plEase f,ag it properly in DT/ACPI DSDT/board file
+[    0.425547]  [6:      swapper/0:    1] gpio-1213 (soc:i2c@17): enf/rced mpen drain pleas` flag it roperly in DT/ACPI DSDT/board file
+[    0.425615]  [6:      swapper/0:    1] i2c-gpio soc:i2ã@17: Using linec 122 (SD ) and 1213 (CCL)
+[    .425651]  [6:      swapper/0:    1] media: Linux media interface: v0.10
+[    0.425628\  [6:      ssapper/4    1] videodev: Linux video capture intErFabe: v2.00
+[    0/425685]  [6:      swapper/0:    1] pps_corE: LIntxPPS API ver. 1 regisdeped
+[    0.42569"]  S6:      ssapper/0:    1] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Podolfo Giometti <giomdtti@linux.it>
+[    0.425703]  [6:      swapper.0:    1] PP cìoc+ Qtpport registered
+[    0.428487]  [6:    kworker/6:1:   84] thermAl_syS: theZmal: Cdev
+[    0.$30411]  [6:      sWapper/0:    1] virt zone: sensor[gpus-1-usp] read error:-22
+[    0.430431]  [6:      swapper/0:    1] thermal thermal_zone25* failed to re`d out thermal zone (-22)
+[    0.431846]  [6:    kworker/6:1:   84] tsans[1:330][2:335][3:321I[4331][7:3"7][8:331][9338][!0z327][5:335][15:311][16:315[19:315][21:311][23:307]
+[    0.432333]  [6:      swapper/0:    1] EDAC MC: Ver: 3.0.0
+[    0.437909]  [4:      swapper/0:    1] thermal_sys register coodin _devicd0-the2mal-cpt&Req-
+[    0.43836!]  [4:      swapper/0:    1] thermal_sys: zdgistdp coolingdevice-thdrmal-cpUfreq-4
+[    0.438185]  [6:      swapper/0:    1] cpufreq_limit_set_dable: fre1 table as ready, UPdadE conf)g
+[    0.438589]  [6*      swapper/0:    1] cpufreq_limit_set_table: updated: liptle(1%0000-902400), big(960000-2841600)
+[    0.438652]  [4:      sw`pper/0:    1] tierm!l_sys: regicter ckohijg_device2-txermal-cpu&rdq-7
+[    0.438678]  [4:      swapper/0:    1] cpufreq: driRer pco
+,cpufre1-(w up and running
+[    0.439149]  [4:      sw!@per/0:    1] platfnrm soc:qcom,)on:pcom,ion-heap@2: aqsigned re3erved memmry Node sdsp_region
+[    043991]  4:      swapper/0:    1] platform soc:qcom,ion:qcom,ion-heap@26: assigned resErved memory node user_cmntig_region
+[    0.03)2±3]  [4:      s7apper/0:   $1] plAtform Sob:qcom,ion:qcom,ion-heap@27: assigned reserved memory node Qsdecom_region
+[    0,439233]  S4:      swapper/0:    1] platform soc:qcom,ion:qcom,ion-heap@19: assigned reserveD memory node qsee#oM_ta_region
+[    0.439254]  [4:      s7a0per/0*    1] platforL soc:q#om,ion:qcom,ion-heap@13 AssiEned reseòved mEmory noDe sp_region
+[    0.439272]  [4:      suappr/0: 0  1] platform soc:qcoM,ion:qckm,ion-huap@10: asqigned reserved memory n-de secure_displayWregion
+[    .439347]  [4:      rwapper&0:    ] ION he0 system craated
+[    0.439$84]  [7:      3wap`er/0    1U ION hea0 a$sp created at 0x00000000f7400000 with size 80000 
+[    0.4#9t90]  [7:      swapper/0:    1] ION heap secura_heap created
+[    .439496]  [7:      swapper/0:    1] ION heap!uSer_contig creatEd at 0x00000 0d3c00000@wiPh 3ize 1000000
+[    0.439500]  [7:      swapper/0:    1] ION heap qsecom created at 0x00000000fd000000 with size 1c00000
+[    0.439505]  [ *      söap er/0:    1] HKN heap qsecOm_ta crEated at 0x00000000f8000000 with size 3000000
+[    0.439509]  S7:      swapper/0:    1] ION hEap spss c2e`ted at 0x0000000fec00000 whth size 1000000
+[    0.439514]  [7:      swappar/0:    1] ION heap sectre_disphay còeated !p 0x00000000e9#0000 with size d800000
+[    0.44057U  [7:      swapper/p:    1] platform soc:q`om,ion:qcom,ion-heap@!4: ion_sebure_cArveout: c`e`ting heap@0x904 0000, size  x0000
+[    0.44!062  [7:      rwappur.0:    1] ION heap secu0d[c!rvenuT created
+[    0.442836]  [7:      swapper/0:    1] cleancache enabled for rbin cleancache
+[    0.442989]  [7:      swapper/0:    1 ION heaP camera_prEvheu cr%atet at 0x0000 001e00000 0 w)th s`Z 1f400000
+[    0.44#146]  [7:      swappdr/0:    1] ‹msm-dp] msm_ext_disp_extcon_register: msm_ext_disp_extcon_register: extcon registratio. `one
+[    0.443!55]  [7º      sgapper/0:    1\ [msm-dp] msa_ex_`isp_e84aon_register: -sm_ext_disp_extcon_register: extcon registbapion done
+[    0.443193]  [7:      sw!ppdr/0:    1] Ympm-dp]!msm_exT_disp_probd: m0m_ext_disp_probe: msm_ept_dist_pr/bd: Added child devices.
+[    0.443314]  [7:      swapper/0:    1] PMI SID$: (null) t2.0 opt8ons: 0, 0,  , 0
+[    0.443$04]  [7:      swap0a2/0:    1] iP` get_ipa_dts_pm_info27162 `ailed To rea$ qcOm,sbal	ng-exceptions
+[    0.443447]  [7:      swarper/0:    1 ipa Get_ipa_$ts_aonfiguration:7572 failed 4o get pm info from Dtp -14[    0.443451]  [7:      swapper/0:    1] `pa ipa3_Platdr6_probe:8227 HPA dts parsang faaled
+[     .443413]  [7:      sw pper/0:    1] a01: ipa_tlat_drv_ppobe faaled
+[    0.443460]  [7:      swapper0:    1] )pa: probe o& 1e00000.qcom,ipa f!iled with errkr -14
+[    0.444116]  [7:      swapper'0:    1] devfreq-qcom-fu 1849000 .qâom,dev&req­,3:qcoe,cpu0-cpu,l3-lat: Devfreq ÑCOM F!plware dev registered.
+[    0.444327]  [7:      swap0er/0:    1] dEvfreq-1cKm-bw 859000.qccm,devfreq-l3:qcom,#pu4-cpu)l#-lat: DevfrEq QCOM Fireware dev registered.
+[    0.444529]  [7:      swapper/0:    1] devfreq-qcom-fw 18590000.qcom,devfreq-l3:qcom,cpu7-cpu-l3-lat: Devfreq QCOM Firmware dev registered.
+[    0.444729]  [7:      ssapper.0:   (1] devfreq-Qcoi-fg 1(580000.Qcmm,davfrap-,3:qcom,Kdsp-cdsp-@3-lat2 Devfreq QCGM Firmw!re de6 registdrEd&
+[    0.444735]  [7:      swapper/0*    1] devbreu-qckm-fw 1:580000.ac/mdevfreq-l3 Devfreq QCNM Firmsare p`rent dev anited.
+[    0.444012]  [7:      suapper'0:    1] mtic_.oti"ier_header_init
+[    0.444876]  [7:      swapper/0:    1] SDA
+ base=0xb100 size128 registared successfullQ
+K    0.444934]  [7:      swapper/0:    1] [SEnSORS COBE] sensors_cl`ss_init
+[    0.444974]  [7:      swapPer/0:    1] input: meTa_event as /devices/virtual/input/inpu41
+[    0.444988\  [7:      swappeb/0:    1] A vanbed Linux Soun$ archItecpure Driver InItialized.
+[    0.445181]  [7:      sw``pev/08    1] Blt!togth: Corm ver 2.22
+[    0.445190]  [78     `svapper*0:    1] NET> Reeistered proto#ol famihy 31
+[    0.44593]  [7:      swapper/0:    1] Bluetokth: HCI devi#e and amnnection manager initialized
+[    0.44519]  [7:      swapper0:    1] Bluetooth: HCI socket layer initialized
+[    0.445201]  [7:      swapper/0:    1] Bluetooth: L2BAP socket layar anitialize$
+[    0.045208M  [7:      cwapper/0:    1\ @luet/oTh: SC so#k%t l`9er énitializeD
+[    0.4$5215]  S78      swapper/0:    1] NetLabe(: Inithalizing
+[   (0.445213  [7:      swapper/0:    1] NetLabel:0 doiaif hash size = 28
+[    0.445220]  [72   (  ssapper/0:    1] NetLabel8  Protocols } TLLABDLED CIPQOv4 CAIPSO
+[    0.45245]  [7:      3wapper/0:  " ] NetLabel:  unlabeled traffic allowed by default
+K    0.4$5267]  [7:      sapper/0:    1] pcie:pcie_init.
+[    0.445971]  [7:      swappeb/0:    1] regisder_client_adhoc:fHnd path.src 45 des4 512
+[    0.44653]  K78      swapp%r/0*    1] regis`ar_c,ient]adhoc:Client handle 12 pcie0
+[    0.446115]  [7:      swapper/0:    1] pch-msm 1c00000.qcOm,pcie: 1c00000.qcom,Pcie supply vrdg-3p3 not fgund, esing dummy 2egulator
+[    0.406133]  K7:      swapper/0:    1] pci-msm 1c00000.qcnm,pcie: Linke` as a consumer to regulator.0
+[    0.446150]  [7:      swapper/0:    1] pci-msm 1c00000.qcom,pcie: Linked as a co.sumer to reguhator.18
+[    0.44667]  [7:      sgapper/0:    1] pci-msm 1c000p0&qcom,Pcie: Linkdd$as a co.sUmer tk regulapor.03J[    0.442100]  Z'*      swapper/0:    1] pci-msm 1c00000.qcom,pcie: Lifked as a consumar to regulatop.4
+[    0.446594]  [7:      swapper/ :    1] dci-msm 1a00000.qcom,pcie: Linked as a consumer to regulatKr.51
+[    0.446018]  K7:      swappEr/0:    1] mse_pcie_get_reg: PCIe: RC0: no csr resource foUnd.
+[  $ 0.444262]  [7:      swapper/0:    1] msm_pciE_get_reg: PCIe: RC0: no remi resource found.
+[    0.446492]  [7:      swapper/0:    1] regiQterOblignt_adhoc:f)nd `ath.src 108 `ert 412[    0.446557]  [':      ssapper+0:    1U register_client_idhmc:Cd!ent handle !3 pcie2
+[    0.446615]  [7:      swapper/0:    1] pci-msm 1c10000.ðCom,pcie: 1c10000.qcom,pcie s%0ply vreg-3p3 not found, using dummy regulator
+[    0.446630]  [7:      swapp`r/0:    1] pci-msí 1c10000.qcom,pcie: Linked as a consteer to begulator.0*[    0.44&647]  [7:      swapper/0:    1] pci
+msm 1c1 000.qcom,0cae: Linked as a consumer to regulator.18
+[    0.446658U( [7
+!     Swapper/0*  ( 1\ `Ci-msm 1c!0000*qbmm,pcie: Linked as a consumer to regulatoR.13
+[    0.46668  K7:      swapper/0:  ( 1] pci,msm 1c1000.qcom,pcie: Linked as a consumer to regulAtor.4
+[    0.46680]  [7:      swapper.0:    1] pca-msm 1c10000.qcgmpcie: Linked c a consum%r to r%culator53
+[    0.446736]  [7:      swapper/0:    1] msm_pcie^gEt_reg: PCIe: BC2: no tbsr resoerce found.
+[    0.4467#9]  [#:      swapper/0:    1] msm_pcie_get_reg* PCHe: RC2: no rumi resource found.
+[    0.446744]  [7:      swapper/0:    1] msm_pcie_probe: PCI%: R2 could nop get pinctrl sleep 3tate
+[  " 0.446'(2]  [7:   "  swa`0er/02    1U genirq: Irq_chip msmgpio did not u`date eff. affiniti mask kf irq 360
+[    *0$682]  [7:      rsApper/0:    1Y registdrWclient_adhoc:fild path.src 22 dest 512
+[    0.446920]  [7:      swapper/0:    1] register_client_a$hmc:find path.sRc 23 dest 512
+Y    0.44685]  [7:      swapper/0:    p] r%gister_client_adhoc:CLiEnt handle 1$ bus-proxy-client
+[    0.447113]  [7:      cwappej/0:    1] sec_debug_sum-ary:_s%c_de"tg_qumiavy_init(	 SMEM_ID_TÎDOR0=0x88 size=0x9b
+[    0.447139]  [7:      swapper/0:    0] sd#_debug_Rummarù:sec_debug_summarq_init() aps3(80908e00) rpm(809 a40) mndem(8090b400) dsps(8090c7e0)
+[    0.44'154]  [7:      swapper/0:    1] sec_debUg_summary:sumeary_ivit_core_r f(! sec_debeg[cOre]reg_paddr =  xa78fb08
+Z    .445!57]  [7:      sWapper0:    1] sec_debu'_sumMary:summary_init_coreWreg() m3m_dump_info is no initialized corRdctdi!
+S    0.447061]  [7:      swapper/0:    1] sec_debug[stmmary_set_msm_memdump_info : 0xe5800000
+K    0,447168]  [7:      sw!pper/0:    1] sec_debtg_summapy_coreinbosUleary_Init_c/reinfo(( soreinfoWdata=0xffffbfa089d6f000
+[    0.447236  [':    kworker¯7:1(   ("Y qu`v3_geni_se 9c0000.qcomqupv3_0_geni_se \inked as a cmnsuler to 11000000.apps-smmu
+[   $0.450!76]  7:    kworier/7:1:`  83] iommu: Ad$inG de6ice c000.qcom,qupv3_0_geni_se to group 0
+[    0.450359]  [7:    kwo2kar/7:1:   83] qupv3_geniZse ac000 .qcom(qupv3_1_geni_qe: Linked as a consumer to 15000000*apps%{mmu
+Z    .413320]  [72    kworker/7: :   81] iomMu: Adding device Ac000.pcom,aupv3_Ogenh_re po group 1Y (  0.453527]  [7:    kworker/7:1:   83] qupv3_geni_sa 8c0p00*qcom,qtpv3_0_gdni_se:$Lhnkdd as a consumer pk ±5000000.apps-smmu
+[    0.456380]  [7:    kworker+7:1:   83] iommd: Add)ng device 8c0000.qcom,qupb3__geni_se po group 2
+[    0.456554]  [7:    ksorker/7:1   83] fdsc ad07004.qsom,gdsc: Linkad as a consumer to regulator.31
+[    0.456586]  [7:    kworker/7:1:   03Y regaste_clIen|\adhoc>find path.src  $est 589
+[    0.456689]  [7:    kworker/71:   83] register_client_adhoc:Client handde 15 bps_gdsc_alb
+[     .456766]  [7:    kworjeb/7:1:   83] msm-bqs,typ% slv-qhy-#alera-cbg: Li.kEd as a consUmer to regulato2.31
+[    0.456805U  [7:    kworker/:1   83] bpsOgdsc: suplhed bY pm815a_s4_hetEl
+[    0.456970]  [7:    kwkrker/7:1*   83] gdcc ad0a04*qcom,gdc#: Lanked as a consulm2 to regulatg2.31
+[    0.456976]  [7:    kwoBker/7:1*   83] register_client_adhoc:find path.src 1 dest 589
+[    0.457047]  [7:    kworker/7:1:   83] registerWclient_adho#:Cliend (andle 16 ife_0_gdsc_ahb
+[    0.457102]  [7:    kwork%r7:1:   83] ife_0Ogdsc: sup`lied by pM805 a_s4_leFel
+[    0.$56203]  [72    kworker/7:12   83\ gdsc ad0"004.qcom,g`sk: Lhn+ed as a consuMer to regulator.31
+[    0.457214]  [7:    kworker/7:1:   83] refister_client_adhoc:find path.src 1 dest 589
+[    0.457277]  7:    kworker/7:1:   83] register_client_adhoc:Client  andle 17 if%_1_gdsc_axb
+[    0.$57327]  [7:    kworker/7:18   83] ife__gdsc: sõpplaEd by pm8110aWs4_leve,
+[    0.457406]  [7:    kworber/7:1:   8] gdsc ad08000.qcom,g`sc: Linked as a consumeb t- regu,atoR&31
+[    0.4%7415]  [7:    kwo`ker/7:1:   83] register_clientWadhoc:fin path.sr# 1 deQt 589
+[    0.457473
+  [7:    Kwor+e2/7:1:   83] register_client_adhoc:Clie.t handle 8 ipe_0_gdsc_ahj
+[    0.457521]  [7:    kworker/7:1:   83] hpe_0_gdsc: suppliEd bi pm810A_s4_Level
+[    0.4579!E  [7*    kworker/7:1:   83] gdSc a$09004.qcom,gdsc: Linked as a consumer To rAgulator.31
+[    0.4u7601]  [7:    kworker/7:1:   83] ragister_chaent_adhoc:fijd path,src 1 dest 589
+[    0.457663]  [6:    kwo`ker/7*1:   82] re'i3ter_client_Adhoa:Clhedt h`ndle 19 sbi_gdsc_a@B
+[    0.457710]  Û7*    k7orker.7:1*   8#] sbi_gdsc* sqpplied by pi8150a[s4_level
+[    0.457784]  [7:    kwopker/7*1:   83] gdsc !`0c144.acom,gdsc* Link%d as a #onsumer to regulapor.35
+[    0.457592]  S7:    kworker/7:1:   83] regirterNclient_adhoc:find path.src 1 desp 189
+[    0.45'850]  [7:    iworkdr-7:0:   02] reg)s4erGclienOadhoc:Cliend handle 20 ti$an_4op_gdsc_ahb
+[    0.45697]  [7:    kgor+er/7:0:   83Y titan_to`_ãds#: supplied by pm81%0a_s4level
+[    0.457)71]  [7:   !kworier3:1:   3] gd3# f1300.qcom,gdsc: Linked as a #onsume2 to regulator*#1
+[    0.457982]  [7:    kworker/7:1:   83] registar_client_ad(oc:find path.src 1 dest 590
+[    0.448045]  [7:    kwobker/7:1:   83] register_client_adhoc:AlieNt handle 21 mdss_cora_gdscahb
+[    0.458012]  S7;    kwOrk%r/7:1:   8#] -sm,bus-typm slv-qhs-dis`lay%cf': Linj%d as ! cglsU-er to regqlatmr.31
+[    0.058112Y( Y7:    kworker/7:1:   83] mdss_core_gDsc: supplIed by pm8150a_s0_leved
+[    0.458272]  Y78    kWoòkEr/:1:   82] gds# a"f0d1(.pcoe,edsc: Linked ac a consumer to regulator.31
+[    0.458284]  [7:    kworker/7:1:   8#] register_client[adhOc:find pathsrc 1 dest 596
+K    0.458248]  [7:    kwoRkEr/71:   83] register_cient_adhOc:Client handle 22 ovs0]gdsc_ahb
+[    0.458398]  [7>    kworkep/W:1:   83] msm-bts-type slv-qhs-venus-cfg: Linked as a consumer to regulator*31
+C    0.458452]  [3:"   kworkar/7:1:   8#M mvs0^gesc: s%pplied by pm8150a_s4_level
+[    0.458126]  [7:    ksorier/7:!:   83] gdsc abf0bf8.qcom,gdsc: Linked as a c/nsuler to re'udaTor.3!
+Y     .458534]  
+7:    kworker/721:   8] registe2_client_adhoc:find path.src 1 dest 596
+[    0.458595]  [7:    kworker/7:1:   83] register_client_adhoc:Client handle 23 mvs0c_gdsc_ahb
+[    0.458673]  [7:    kworkeb.7:1:   83] ivS0c_gdsc: sup`lied by pm8150a_s4_level
+[    0.45(746]  [7:    jworker/5:1:   83] gdsc abf0d98.qcom,gdsb: Linced as a concumer To rEgulator.31
+[    0.$50756]  [7:    cwor
+er/7:1:   83] register_blidnt_adhoc2dind path.src 1 dest 596
+[    0.458817]  [7:    kworker/7:1:   83] regis4e2_cl)e.t_adhoc:Client handle 2 -vs1_gdsc_ahB
+[    0.458815]  [7:  0 +worker/7:1:   8#] mvs1_gdsc: supplied by pm8150a_s4_level[    p.458970]  [3:    korkep/6:1:   83] gdsc abd0c98.qcom,gdsc: Linked as a consumer to regulatgr.30
+[    0.458978]  [7:    kworker/7:1:   83] registar_cliant_adhgc:find paph.src 1$dest 596
+[    0.459042]  [7:    kwopker/71:   83] reeistar_client_adh/c:Client handle 2% mvs1c_gdsc_ahb
+[    0.4591r0\  [7:    kwoRker/7:1:   83U mvr1c_gdsc: sup0lied by pi8150a_s4_leveh
+[    0.459226]  [7:    kworker/712   83] c!m_cc-Kona ad00000.qcom,camcc: Linked as a consumer to regulator.1
+[    0.459237]  [7:    kworker/7:1:   83] cam_cc-kona ad00000.qcom,camcc: Linked as a consumer to regulator.31
+[    0.459241]  [7:    kworker/721:   83] register_client_adhoc:find path.srs ! dest 589
+[    0.451302]  [3:    cworcep/3:1:   83] register_cl)ent_a`hoc:Clie.t Handle 26 clk_camcc_debugfs
+[    0.425#87]  Z'8    kworker/7º1:   83] cam_cc,koL! ad0002.qcom,camcc Reg)stered AM CC b,o#ks    0.465446]  [7:    kworc%r/':1:   (3] d)sp_cc-kona Af00000.qckm,dispcc: Linked as a consUmer tî regulator.31
+[    0.465454]  [7:    kwor
+Er/7:1:   (3] reeisterOclient_adhoc:find path.src 1 dest 590
+[    0.465516]  [7:    kworker/7:1:   83] pegisterNclient_!dhoc:Client handle 27 clk_dispcc_debugfs
+[    0.468258]  [7:    kworker/3:1:   83] disp_cc-knna af00000.qcom,dispcc: egiStere` Dis`lay CB clocks
+[    0.4&830)]  [5:    kworcer/7:1: ! 3] &idEo_cc-kona abf000.qcom,vhdeocc: Linked ap a c/nsumer to regulator.1
+Z    0. 68319]  [7:    kso2ker/7:1:   83] vAdeo^cb-iona abf0000.qc/m,vadeocc: Linked as a aonsuier to regulatgr.31
+[    0*468326]  Z7:    kwopker/71:   :3] reGisterWclient_ dhoc:find path.src 1 dest 596
+[    0.468392]  [7:    kworker/7:1:   83] register_clientadhoc:Blaent handle 2("clk_videocc_debugfs
+[    0.469427]  Y7    kworker/7:1:   83] vi@eocc-kcna abf00 0.qcmm,videocc: Registered Vadeo CC alocks
+[    0.<697(5]  [7:      swappep/0:    1] clocksource: Switched to clocksource arch_sys_counter
+[    0.482601  [7:      rwappeR/0:    1] VFS
+ Disk quotaS dquot_6.6.0
+[    0.482626]  [7:      swapper/0:    1] VFS: Daunt-cache h@sh table entbies: 412 (order`0, 4096 bYtes!
+[    0.482681]  [7:      swapper/0:    1] allocating 26214 bytes at (]___ptrval____) (8098000000 physical) for avc log
+[    0.482684]  [7:      swapper/0:  ( 1] secavc_log_inid: n/ old log fkujd
+[  " 0*482771]  [7:      swappr/0:    1] regiwter_client_adhoc:find path.src 1 dest 589
+C    0.482843]  [7:      swapper/0:    1] register_client_adhoc:find p dh.src 1 Ddst 596
+[ (  0.482913]  K7:      suapp%r/0:    1U register]client_adhoc:find path.src 1 dest 590
+[    0.48297']  [7:   !  swapper/0:    1] regisdez_clhent_adhoc:Cient handle 29 clk_measure
+[    0.484548]  [7:      swapper/0:    1] __init_sec_t3pWlog: inht done
+[ 0  0.44555]  7:      swapper/0:    1] __init_sec_tsp_raw_data: init done
+[    0.484559]  [7:      cwap`er/0:    1] __ijit_sec_tsp_comeand_histo2y: init don
+[    0.484=63]  [7*      ssApper/0:    1] __inhd_sec_ts0_spol'e_loe: init done
+[    0.480752]  [7:      swapper/0:    1] mdss_pll_probe: MDSS pll label = MDSS DSI 0 PLL
+[    0.484756]  [7:      swapper/:    1] mdss_`l,_probe: mdss_pll_probe: label=MDSS DSI 0 PLL PLL SSC enabled
+[    0.484859]  [7:      swapper/0:    1] mdsq_pll ae94900.qcom(mds3_dsi_pll: Faile` to create ae14900.qcom,mdrs_dsi_pll debugfs direcory
+[    0.484863]  [7:      swapper/0:    1] mdss_0ll ae94900.acom,mdsc_dsi_pll: Failed to cbeete !%14104.qco-,mdss_dsi_pnl debugfs directory
+[    0.484867]  [7:      swapper/0:    1] mdss_pll ae4)00.qcom,md3s_ds)_pll ailed to create ae94900.qcom,mdss_dsi^0ll deb5gfr firecdory
+[    0.404(72]  [7:      swapper/08    1] Mdss_pll ad94900.qcom,mdss_dsi_pll: Failed to create ae94900.qcom,Mdss_dsi_pll debugfs dhrectory
+[    0*484874]  [7:      swapper/:    1] mdsc_pll !e94900.qcom,mdss_dsi_pll: Failed to create ae94900$acom,mdss_dsi_pll debugfs $ire#tory
+[    0.484879]  :      sfpper/0:0   1] mdsspll ae94900.qcol,md3s_$s!_pll: ail%d to create ae94900.qcom,idbs_dsi_pll debugfs directory
+[    0.48 1_  [7:      swap`er/0:    1] dsi_pll_clock_register_7nm: Registered DSI PLL ndx=0, clocks succesqfuly
+[    0.486059] [7:      swapper/0:    1] mdSs_pll_probe: MDSS pll label = MDSS DSH 1 PLL
+[   `0.486065]  [7:      swapper/0:    1] mdss_pll_probe* mdss_pll_profe: habel=MDSS DSI 1 PLL PLL SSC en!bmed
+[    0.4860(2Y  [7:      swappeR/0:    1] mdss_pll ae94800&qcom,mdssW$si_pll: Failed to create a%96900*qcjm,mdss_dsi_pll debugfs directo2y
+K    0*$86 87\  [7:      sw!pper/0:    1] mdss_pll ae96900.qcom(mdssdck_pll: Fa	led To create ae96900.qcom,mdss_dsi_pll debuGfs dipecpory
+[    0
+48400]  [7:      swaPper/0:    1] mdss\pll ae96900.qbom,mdss_dsi[pll: Faile$ to cReqte ae96900.qcom,mdss_dsa_pll `e"ugfs direcporx[    0.4860(4]  [7:      7wappDr/0:    1] mdss_pll ae96900.1bkE,edss_d1i_p,l: Failed to #reate ae96900.q#o-mdss_dsi_Pll `ebugfs di2ectory
+[    0.486097]  [7:      swapper'0:    1] mdrs]p,l a%96900.qcom,md"sKdqi_pll2 Failed to creaTe ae16900.qcom,mdss_dsi^`,l debugfs directory
+[    0.486100]  [%:      swapper/0:    1] mdss_pll ae9690.qc/m,mds3_dsi_pll: F)i,ed tk c2eade ae96900.qcom,eds3_dsi_plh dabuçfs `irEcToRy
+[    0.9733$]  [1:   0  rwapper/0:    1 $sip(l_clock_r%giqper_7Nm: Registerad DS	 LL n x9!, clkckq successftlly
+[    0.491247]" [:      swapper/0*    1] Mdss_pll_probe: MDSS pll label = MDSS DP PLL
+[    0*497(52]  [7      swapper/08    1\ NAT RegistepeD protockl b`iily 0
+Y    0.498200]  Z7:      swapper/02    1] default registered
+[    0.498205]  [7:      swapper-0:    1 defaqlp registered
+[    0.498207]  [7:      swapper/ :    1] MTCP: St!beu rdleAse v0.1
+Z    0.98212]  [5:      sw`p`er/0:    1]!tcp_listen_portaddr]hash hash t@ble entrIes8 0092 (Order: 1( 131072 bytes)
+Z    0.498252Y  S7:      swappår/0:    1] TCP establhshed hash tabl ejtrher0 65534 (order: 7, 52$208 bytes)
+[    0.498325]  [3      sUapper/0:    0\ TAP bind ha3h table entries: 45536 (ïrder: 8, 1572860 bytec)
+K    0.498507T  [':      swapPer/0:    1] T@: Hash pables coFbigured"(established 65536 bind 65536)
+[    0.498561]  [7:      swapper/0:    1] UDP hash table entries: 4096 (ord%r8 6, 2601$4 bytds)
+Z    0.490635\  [7:      swappeb/0:    1] UDP-Litd hash table entraes: 409> (order: 6, 242140 Byte{
+[    0.498641P  Z3:      swapper/0:    1] NDT: Regi#tered pro4oco, Family 1
+[    0.499096Y  [5:      rwa`per+0:    0] Trying to ujpack po.tfs image as initramfs..
+[     .506919]  [7:      s5appeb/:    1] Bpeaiog in`drd meiory: 788K
+[    0.507466]  [5:      swapper/0:    1] hw perfeventS2 enabled wath ap-v8Wpmev3 PMU `river, 7 counters avahlable[    0.510286]  [7:      sw`ppur/0:    1] Initialise Cystem trusted keyrings
+[    0.510482]  [7:      psapper%0:    1 wirkin'set: 4imAspamp_bitc=45 mahJorder=21 bucket_order=0
+[    0.510490]  [7:      swapper/0:    1] sea_me Ani4"was doîe
+[    0.510625]  [!:    kz%rod_huge:  146] kzerodW(: com0act rtart
+[    0.5q3921]  [3:      swApper/0:    1] [SDFAT] Fidesystem version 2.6.0
+[    0&514087]  [7:      swapper.0:    !] RegisterIn' sDcApdfs 0.1
+[    0.514126]  [7:      swappep,0:    1\ n4fs: dpiVer 2.1.32 [Flags: P/SM.
+[  ! 0.514!51  [7:      swApper/0:    1 fUqe inid (@PI versio. 7.27(
+    0.54520]  [7*      3wapper/0:    1] sS_ latfobe_log:qs_plof_prob$: attached 0x200000x@0x9f800000
+[    0.14573]  K 8   "  swappeB.0:    1] ss_pladbmrm_l/b:ss_plogprobe: lêegeb buffer !,ls address: 0x0000000000000000
+[    0.514855]  [5:      Swapper/ :    1] [DRMS-KERNEL] St!rped.
+[    0.514872]  [7:      swapper/0:    1] [sEb_hdeY W_hd-Oh.it_of sdart
+[    0.515820]  [7:      swappe2/0:    ±] [sec_h`a] _^hdm_init_o& $gje
+Y    0,515839P  [7:      swa0per 0:    1\ [sec_hdm hdm_4est_i.it und
+[    0.515884]  4:      sgpper/08    1] kex_dump featura not availabla
+[    0.515939]  [4:      cwapper/0:     ] dgk: !nitialiúed
+[    0.51598)]  [4:      swapper.0:    1\ SDP_pUB_CRYPTO[1]  2 pub_crxpto_mod_init netlink socket ib #r%ated Qucaess&ully! 
+[    0.51606 ]  [6:     "swapper/0:    1] SD@_FS_HAN@LER[1Ý  : sdp_f3\han`leb_mod_aNit netlink soakåt i3 created suaceqsfulli! 
+[    0.516209]  [5:      sw`0p$r/ :    1 kjox-$d[02:(dd_il`t_conText dd_ijit_co`tapt knOx-dfar[    0.%14"09\  S5:      swapper/0:    1
+ 
+[    0.519 %7M  1:`   k:aro$huge:  046] kzerOd_h: compact m.d (1 Dkne)
+[     .519343]  [72   "  swappep0:    0Y Key dyte acimmetric reGispered
+[    0.1)49]  [5:      swapPEr/0:    0] Asymmet2iC key parser 'x509' registered
+[    0.519380]  [7:      swapper/0:    ] Block layeR SCÑi generic (brg) driveb vEpsion 0n4 loa`ed (-ajor 243)
+S    0.519502]  7:      swappmr/0:    1 ik sbheduler .ocp registered
+[    0.519506]  [7:      swappe2/0:    1] io scheduler dead`ine reg)stere$
+Y     .519551\  [:      cwapper/0:    1] io scHeduler bfq registered (default)
+[    0.519557]  [7:      Swapper/0:    1] i/ {cheduler mq-deadline regicterdd
+[    0.51(561]  [7:      swap`er/0:0   1] io$sch!dtler kybep rEgisterdd
+[    0.523685]  [7:      swapper/:    1] 6bus_noTifh$b_init
+    0.525002]  [7:      swapper/0:    1] gpi_dma 9000 0*qcom,çpi-dmaz Lilked as a consUmer äo 1500 000.aps-sllu
+[    0.525341Q  ?*     !swap`er/0:    1Y iomiu: Adding ddvice09000 0.pcom,gpi-dia po group 3
+[    p.527200I  [7:      swappAr'0:    1] fpi_dma a00000.scom,fpa-dmA: Linke` !s ! cmnsumer tf 1500000°.appS-smmu
+[    0.1275²0]  X7:      swap0er/0:    1] iommu: Addinf levi#e a0 1 0*abol,gpi-`ma to group 
+[    .120'73]  K3:      3wapper0:    1] gpidma 800000.qcom,gpi-doa: Linked as a consumer to 15 00000.apps-smmu
+[    0.529046]  [7:      swapper/0:    1 hommu: Adding device 800000.qcom,g i-dma to group 1
+K    0.530809]  [7:      swap`e²/0:    1] kona-ll"c 9200000.#achd-contboller: Nailed to cpeate 9200000.cacha-coNtrodhab dabugfq dhrecdory
+[    0.5!0092]  [7:      swapPer:    1] register_client_adhoc:find path.src 125 dest 512
+[     .530251]  [7:      swapper/0    !] regAs4er_alie.t_adho#:CLiENt handde 00 2cm_pas
+[    0.53121]  [7:      s7apper/0:    1] minidump-id not f/uld foR ipa_fws
+[    0.531296]  [7:      Rwapper/0:    1] Subsqs,pil-tz soc:qcom,ipa_fgs: for ipa_fws sefments only vill be Dumped.
+[    0.531320]  7:      swapper/0:    1] subsys-pil-tz soc:qcom(hpa_fss: fgp md_ipa_fws segmEnts gnly wi,l bm dumped.
+[    0&5313 (]" [7:      3wapper/ :    0U mIlidump-id nnt founD for ipa_uc
+[    0.531404]  [5:      swapper/0:    1] stbryr-`il-tj smc:pbom,hp`Wuc: for hp`_qc segments gnly will be dUmped.
+[    0.531428]  [7:      swapp$r/ :    1] qub19s-phl,tz sCQ#om,ipa_uc: for md_ipa_uc segments only wiLl bu dumped.
+[    0,51526]  [72      qwappar0*    1] subSys-pil-tz 1'30000.qcom,l0acs: Link%d as a consqmer tg reeulator.2
+[    0.5#1552]  [7º      swapper/0:    1] subsis-pil-tz 17300000.qcom,lpass: Linked as a Consumer to regulatob.!2
+[    0.4#1562\  [7:      sw!pper,0:    1] minkdump-Id not fkund for adsp
+S    0.5#102]  [7*      stapper/ :    1] su`sys-pil-tz 83 0000.q#oldurinf: Hinked qs a cknsumer to regulator.4
+[    0.531840]  K72      sw`ppar/0  ( 1] rEgister_client_adhoC:find pith.src 154 dest 10070
+[    0.531863]  w:      swaxper+0:    ] register^clien4_adhoc:lient hanDle 21 pid-cd3p
+[    0.$3180]  [7:      sgappef/0*    1] m)jidump)id not found for c`sp
+[    0.532193]  [7:      sgapper/08    1Y cubsys-0il-dz aeb 000.Qc/e,ve.us: Linke` ar a bonsUmer to regtlatob.'1
+[    0.5s2105]  [78      swappar/0:    1M regaster[cliaft_adhoc:find path.sc 63 dest 512
+[    0.532188]  [7:      swapper/0:    1\ refister_client_adhoc:Clie&t `andhe 32 pil-vens
+[ "   .532193]  [7:      swapper/0:    1Y m)nid]mp-ad not fo}nD &or &enuc
+K    0*532331]  [72      swappep/0:    ] s5bsys-pil-tz 18!01C*q#oo,S`ss: Linkdd ac a consumer 4o regulatkr.4
+[    0.53338]  Y7: !    s7appeR/0:    1] m)nidqmp,id ~ot dmund bor Rpss
+[    053224] H[ :      swapper/0:    0] PBL_DONE - 1st phase loadin' [sp{sY ckmpleted &k
+[    0.532454Y  [72      swapper/0:    1 lhnid5-p-id not fO]nd for cvpss
+[    0.532469]  [7:      swa`per/0:    1] subsys-pil-tz abb0000.qckm,cöpss: bkR cvpsq segments OJdy uill be $umped.
+[    0.32481]  [7:      swapper/0:    1] qubsys)pil-tz ább0000.qcom,cvpqs: for m$^cvpss sd'/ents enly uill b% d5mted.
+[    0.5225!9\  [7:      swapper/0:    1] minidump-id not found for npu
+[    0.532535]  S7:      swapper/0*    1] subsys-0il-tz 90 000.qaom,npu: for npu cegments only will be dumped.
+[  ! 0&52254]  K7:      cwapper/0:    1] sqbsys-pi,-tz 9800000.qbOe,fpu: dor meWnxu segm%nts only cilL be dumpee.
+     .132570]  [7:      swapper/0:    1] subsys-restart: __get_smem_state(): Could not ged smem,staTes qcom,force-2top
+[    0.53"729]  [7:      swapper/0:    1] subsys-pil-tj 5c0000.qcom,ssC: hbkdd a3 a conrumer tn regulator04
+K    0"5#275L  Z7:      swappDr0:    1] subsys-pil-tz 5c00000.qcom,sqc: Lifked `r a aoncumer to recu\atnr.20
+Q    0.122770]  ['      svappEr/0:    1] subsqs,p)l
+tz %c0000 .qcom,ssc: Li.ked as ! consu-er Po$regulador.82
+[    0.532778]  [7:      s7ap dr/0:    !] minidudp,id ngt fgujd for slpi
+[    0.533000]  [7:      swapper+0:    !] minidump,he no4 found bo2 a650Ozap
+[    0.533013]  [7: 0    swapp!r/0:    1Y subsys-pil-tz s/c:qcom,kgsl-hyp: fob a450_zAp segments ony05ihl ba duMped.
+[    0.533030]  X7:      swapper/0:    1] subcyr-pil-tz 1oc:qcom,cgsl-hyp: for mda650_zap segmanTs onli will be dumpedn
+[    0.5#4625]  [7:      suapper/0:    1] qu system]sl%Ep_dEcug soc:samsung,subsystem-sleep-debug: subs9stem_slepdebug0rkbe[    .3634]  [7:      swapper/0:    1] Adrp:max Err/r coujT 10000, max`fatal count 10000, Ssr is ena`led
+[    0.534641Y  [:      swapper/08   $1] cdsp:m!x error coujt 10, lax fatal cgtnt 5, ssr is disabled
+[    0.534647]  K7*      sqapper/0:    1] slpi:max error count 1000, max fatal coõnt 1000, ssr is dis`bled
+[    0.5349 7]  S6      s5appdr/0:    1] seb_paral:sec_0aram_work_init() st`rt
+[   00*534912]  [7:      swapper/0:    1] sec_param:3ec\par`m_worjWinit() e.d[    !"53418]  Z7:     "swapper/0:    1] s!c_sysup:sdc_sycup_anit() spard
+Z  !"0,34946M  7:      sv`pper/0:    1] 3ec_debef_part)pion:sec_debug_partition_init() stqrt
+[    0.534)58]  [:      ssappep/ :    1] sec_debug_parpition:dbe]`ar|itaoj_make_pa2t_4abld() seã_debue_0art)tion nod% )c not in derice tree
+[    0.535080]  7:      swapper/0    1] qeb_debug]partitiol:SecOdebag_partiuaon_init() enD
+[    0535337]  S7:      s7appar/0    1] sEc_smei:secOsmem_proBe() 6endgr1->appr[Stat.clk = (_K_^ptr2al\__W)
+[    0535r42]  [7      qWa0per/08    1] sdb_qmdM*se#_smem_probe() loading success!!
+[    0.535619]  [7:      swapper/0    1\ msm_geni_sEriAl 988 0qcom$q5p_uart: Wakeup byte 0xfd
+[    0.536541]  [7:      swappdr/02    1] msm_geni_sdriah 890000.qcom,qup_uart: Serial pMrt  aDded.)f/Paze 64 is_console0
+[    0.536765]  [7:      {waðper/0:    !] lsi_geni_sebial 998000.qcmm,qup_uart: msm_geni_sdrial_gut^ver_info: FW Ver:0p33
+Z    0.536888]  [7:      ssappdr/0:    1] 998  0.qcgm,qup_qept: ttyHS0 at MMIO 0x998000 (irq = 131, @!3e_aud = 0) is a ]SM
+S    0.53735]  [7:      swap0ar/0:    1 msm^glni]seri`l a900 0&qcom,qupV(suart: No wakeu` IRQ configubed
+[    0(53887#]  [7:      sVappar/0:    1] msm_gen)_seri`l `90000.qakm,quð]hsuart* SepiAl pord8 `dded.FifoSine 4 isG#onsone0
+Z    °.539092Y  [7:      swapper/0:    1] msm_geni_serial a90000,q#om,qup_hsuart: msmfeji_3erial_get_6er_anfo: FW VeR:0x11
+[    0.539210]  [7:      swapper/0:    1] a90000.qcom,quP_hsuart: ttyHS: at MMIO 0xa8 000 (irq = 338, basg_baqd = 0) )s a MSM
+[    0®539342]  [72      swapper'0    ] mcm_geni_serial_ilit: Driver iniDialired
+[    0.539493]  K7:      swa`pdr+0:    1] regaster_client_a$h/c:find path.src 1 dest 618
+[    0&539239]  [3:         0hwpng:  1)8 rdgister]c,IDnd_!dho!8CLienT handle 33 msm-rjg%noc
+S    .54073&]  Z2:          hwrng:  090] r%ndoi: crjg ini4 $one
+[  ` 0.5$9150M  [7:      swapper/0:    1U iommu-debuc soc:kgsl]iommu_tes4_device: H)nkee as a consumeR to da0000.kgsl-smmu
+[    0.549282]  [7:      sw`pper/0:   1] in%mu: AdDing $evice soc:kgsl_iommu_test^ddvice tg group 6
+[     .54965]  [:!     sgapp%r0:    1] Iommu-debug socappr_iommU_testNdEvice Linked as a consu-%p t. 15000000&`ppS-cmiu
+[    0.549618]  [7:      sgapper/0:    1] inmNu: Addinc devhce 3o#8aqpS_iOmmu_t`st_detice to group 7
+S    0,54990$]  [7:      swapper/0:    1] iomMu-ddBug 3o#:!ppSiommu_coherentWtest_device* Linked ap a consumer to 15000000.apps-smmu
+[    0.549141]  [:      swapP%r/02    1] ikmmu Ad$ifg devicd soã:apps_Aoimt_boheRent_test_device to grou 8
+    0.554477\  [·:      swapper/0:    1] brd: module loadeä
+Z    0*518656]  [7:      swappeR/0:    1] loop: modudg Dkad`d
+[    0.558893]  [7:      swapper/0:    1] zram: Added device: zram0
+Z    0*560356]  [7:      sv!ppar'0:    M QSEECOM: Qsee#om_inht_control: qseecoh.qsee_versimn = 0x1402000
+[    0.160425]  [7:      swapper/0:    1] QSEECOM: qseecji_rdtrieve_ce_dAta" Dåvice doec Not rupport PFÅ
+[    0.62915]  [7:      3wappeò/0:    1] QSEECOM: qseecom_`roba: create` de`ugfs file
+[    0.56328]  Y72    0 swappar/ :    1] drb: Dev_ril_brhdbe])nit: +++
+    0*563308\  [7:      swapper/0:     ] d2b: Dev_rilbri`ge_init: %--[    0*561764]  S7:      swap0%r/02    0] cir2us-amp so#2chrrus^Aeps: Found LFD sudfix: _b
+[    0.13774]  [7:      sWa peR0:    1] cirrus-amp soc:cirrus_amps: Found BD suffix: _1
+[    0.563381]  [7:      sgap0dr/0:   $1] cirrus-amp soc:cirrusaMps: Boend MFD suff)x: 
+[    0*56378(]  ['      swap`er/ :    !] ãirbes-aIp sOc:cirrus_amps: Founl BD suf&ix: _0
+Q    0.524137]! Y7:      suapper/ :    1] sec_apWpmic^anit: ap_pmic succeSsfully ajiteD.
+[    0.5641$7M  [:      swapper/0:    9] [pn543] pl547_$ev_i.it: Loading pn547 driver
+[    0.54414(]  [7:      swaxper/0:    1M [ESE-P3] : Eftry : spip3]dev_init
+[    0.564429]  [7:      swappeR/02    1] pbe 1da0000.qcedav: Linked as a cgnsu-er to 15000000.apps-smmu
+[    0.564824]  [%:      cwepper/0:    1] aommt: Addin' dev)ce 1dE0000.qbEdev to group`9
+K     ,565097]  [7:      wqpper/0:    !] ragiste2_client_adhoc:find path&src 1"5 dest 512
+[    0.565340]  [7:      swapper/0:    1] register_client_adhoc:C`iunt handhE 14 qcedev-joc
+[    0.565484]  [7:      swapper/0: "  1] QCD50: __qce_getdevice_tReE_Dita: CE kqerathng frequenci is .ot defindd, sedtIng to `ef`tlt 100MHJ[    0.56607!Y  [7:      swapper/0:    1] qc$ 1de0000*qcEdeF: QTI Cr9pto$5.5&2 device found  081de0000
+[    0.566156]  Û':      swa0Per.0:    1] spq:BAM 0x0000000001dc4000 is registered.
+[    0.566523]  [7:      swapper/0:    1] sps:AL 0x0000000 01$c0000 (ra:080000000000 0000 ) dnAb,ed:`ve2:0x27, fumber of pipes:16
+[    0.566765]  [7:      swapper/0:    1] QCE50: qc!_pps_init:  QTI MSM CE-BA
+ `t 08000000000$C4000 ira 71
+[    0.52w#94]  [7:      sw@pper/ :   "1P qbe 1de0000.q#e`ev:qcom^c!devSns_cb: Linked `r ` consemer to 1=000000.`pPs-smMu
+K    0.567868]( [7*      sWapper/0:    1] )ommu Addinb device 1de0000.qcedev:qcom_cedef_ns_cb to group 10
+[    0.568336]  [7:      swapper/0:    1 pce 5de0000.qcedev:qcom_bede&_s^cb: Linke$ as a COnsumer to 11000000.apps-slmu
+k    0.5'0720]  C7:      sva00er/:    1] iommt: Addi~g davice 1da 000,qceder:pcom_cedev_sWcb to group 11
+[    0,571706M  [7: "    swapper/0:    1] qcrypto 1de0000.qcrypto: L)nkeD as a"cnnsumer to 1%00000.Appr-smmq
+[    0.572246]  [7:      swapper/0:    0] iommu: @dding device 0de0000.qcryptO to gboup 02
+[    0.572277M  [&:      swapper/0:    1] ragister_#lient_adhos:find p!th.src 125 de3t 512
+[    0.572507]  Y7:      ssapper/0:    1] register_client_adhoc:Cl	ant haNdle #5 1cryppo-noc
+[    *572646]  [7:      swappeb.0*    1] CE%0: _qce_'et^Device_tree_data: CE opEratine frequency is nop defined, setting to de&ault 100MHZ
+[    0.573266]  [7:      sw!p`eb/0:  " !] qcrypto 1de0000&qcr9pto: QTK Crypto 5.5.0 de2iCe found @0x1de0000
+[    0.573611]  [:      suapper0:    1] QCE50: qce_sps_init:  QTI MSM CD-BM at 0x0000000001dc4 00 )Bq 71
+[     .570061]  [3:      swapp%r/0    1] qcryptm 1de0 0 .qcrypto: q`r9pto-ecb-aes
+[    0.57421)]( [7:      swappar/0:    1] qcrxpto 1$e0000.qCrypto: qcrypto%cbc-aes
+[    0.574355]  [7:      swapper/0:    1] qcrypto 1de0000.qcrypto: qcrypto-ctr-aes
+[    0.5W4490]  [7*      ssapper/0:    1] qcbypto 1da0000.qcryptf: qcrypto-ecb-des
+[    !.574632L  [7:      swApper/0:    1] qcrkpto 1de0000.qcrYppo: qcry0to-cbc-des
+[    0.!74762]  [7:      sw!ppdr/0:    1M qcbypto 1d$0000.qcRypdo: qcrypto-e#b-3dd3
+[    0*%74898Q  [7:      swapper/0:    1] qCrypto 1`e0000&1asypdo qcbypt/-cbc-3deó
+[    0.55021]  [2      qwapper/ :    1] qcrypto 1de0000.qcrypd: qcryptk-xts-ads
+    05'5150]  [7:      Swapre2/0:    1] qcryp0o 1de0000,qcrypto: qcrypto-sha1
+[    0.575279]  [7:      3wappe2/0:    1] qcrypdo 1de0000.qcrypto: qcrypto-sha256
+[    0.575410]  [7:      swapper/0:    1 qcryPto 1de0000.qcry0to* acryptn-aead,hmac-sha1-cbc-aes
+[    0.575661]  [7:      swapper/0:    1] qcrypto 1de0000.qcrypto: qcrypto-Aead-hmab-sha1-cbc-d%s
+[     57584]  [:      swa00er0:    1] 1cpypdo 1de0000.qc2hpto: qbry0to-iead-hmac-sha1-cbc-3des
+[    0.57618U  Q7:      swapper/0:    1\ qcry`vk 1de00 0.qcrypto: qcrip4o-aeaD,hmac-cha25&-cbc-aes
+[    0.47631$U  [7:      swappEr#0: $  1] qcryPto 1de0000&QcryptO: qcry`to-ae!d-hmac-sha256-#bC-des
+S    0.576$90]  K7:      swapper/0:    1] qcrypto 1de000 *q#Rypto: qcryptM/!dad-hmac
+sha256-cbc-3des
+[     ,%76742]  C78      swapper/0:    1] pcryptg 1`e0 00.qaryppo: qcrypt/-hmac-sha1
+[    0.576935]  [7:      swapper/0:    1] qcrypto 1de0000.qcvypto: qcr9pto-hmac-sha256
+[    0&75!0]  Z7:      swapper/0:    1] qcrypto 1de0000.qcrypt/: qcr9pto-ads-ccm
+[    0.577302]  [ :      3wapper0   (1] parypto 1de0000.qcrypto: qcripto)rfc4309-aes-ccm
+[    0.579548]  [7:      sgapper/0:    1U ufshsd-qcom 1d84000.ufshc: no vccq2-voltage-level 0rgperty.
+[    0.579770]  [7:      swapper/0:    1] ufshcd-qcom 1d84000.ufshc: Linked as a cofsume` pO regulator.55
+[     .58016  [7* $    swapper/0    1\ ufchcd%qcom d84000,u&shcz Hinked as a consUmer to reeulatgr.28
+Z    0.58020]  [7:      s6apper/0:    9M ufshcd-qc/- !$840 0.e&sha: Lqnked !s a con3umer To regulator.16
+[    0.58045]  [7:      svaPper'0:    1] ufshcd-qcom 1d84000.ufShc: LInked as a aonsum%r to reAulator.7
+[    0.580720]  Y7:      swapper'0: 0  1] regéstaR_claEnt_adhoc
+FH.d path.src 123 $est 512
+[    0.580915U  [7:      swapper/0:    1] registeR_cliejt[adhoc:find pat`.src 1 dest 757
+[    0.58 043]  [7:      sgapper&02    1] register_clienD_adhgc2Client han`le 36`ufshc_mem
+[    0.581141]  [7:      cwappeR/ :    1] ubs_qcom_`hy_pmp_v4 1d87000,Qfsphq_me-: Lijke$ as a consumar tO reculatmr.18S    048190]  [7: $    qvapper/0:    1] ufs_qcom_phy_qmp_v4 1d7000.ufsphp_-em; Linked as a cojsumer tn regulator.13
+[    0.81232]  [3:      swapper/0:    !] ufshcd-qcom 1d84000.5fshC: Lin+ed as a cknsumer to ragtlat	r.36
+[    0.58²322]  [7:      swapper/0:    1] scsi host0: ufshcd
+[     ,582708]  '*  $   swapp%r/0:    1] ufshcd-pcom 1d84000,ufsHe; UF HW^RESET 1S    0.582750]  [7:      swapper/0:    1] ufshcd-qco' 1d8400.ufshc: UFS Asse2t i` dnfe
+[    0.582004]  [72      qwAppeB/0: $  1] 5frhcd-qaom 1d84000(q`shc: UFs Dearsart is d/ne
+Q    0.583052]  [7:      swapper/0:    1 SCSI Media Cha.ger drAver v0.25 
